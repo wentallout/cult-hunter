@@ -3,15 +3,15 @@ Khoa's work-in-progress game.
 
 ## Plot (WIP)
 
-The city is in chaos as seven sub-cults and their main cult wreak havoc on its streets. Innocent people are being lured in and controlled to do unspeakable crimes, and it seems like there's no end to the madness. In the midst of it all, our heroes team up to take down the cults and bring peace back to the city.
+At the start of the game, Nameless, the OP chef, sets out to take down a cult that killed his master years ago. His search leads him to the city where he begins to systematically eliminate members of the cult, fueled by a deep anger and a burning desire for revenge.
 
-As they delve deeper into the cults' operations, they uncover a shocking truth - a real eldritch god is living inside the mind of our nameless chef, giving him the power to cancel all magic attacks. The cults are aware of this too and will stop at nothing to capture him and harness his power for their own sinister purposes.
+Kimber and Jigen, staying in the Assassin Club, are hired by the cult to kill Nameless but, upon realizing the truth, they join him on his mission. As they dig deeper, they discover that the Assassin Club is more connected to the cult than they thought, and that The Lawmaker, leader of the club, is a fake antagonist who secretly works for the cult.
 
-The trio faces a constant battle against the cults and their minions, fighting for their lives and the future of the city. Along the way, they make allies with members of the Racing Club and even some members of the Assassin Club.
+As the group continues to take down the cult's various sub-groups, they eventually come face-to-face with the Cult Leader, the mastermind behind everything. With his charismatic leadership, the Cult Leader has managed to gain the support of the city's elite, including The Lawmaker, making him a formidable opponent.
 
-But as they get closer to their goal, they face the ultimate challenge - The Lawmaker, the leader of the Assassin Club and the strongest assassin of them all. He has been manipulating the cults from behind the scenes, using them for his own gain. The team must defeat him and take down the main cult before they can finally bring peace to the city.
+Nameless and his allies must use all of their skills and resources to defeat the Cult Leader and his top subordinates, all while uncovering the truth about the cult's sinister plans for the city. As they fight their way through the Cult's hideouts, the group discovers that Nameless has a dark secret: he has been unknowingly hosting an eldritch god inside his mind, giving him immense power but also putting him at risk of losing control.
 
-Throughout their journey, the trio faces unexpected twists and turns, with each victory only leading to more challenges and greater dangers. Will they be able to overcome the odds and save the city, or will they fall victim to the cults' evil schemes? Only time will tell in this non-stop intense and unpredictable game.
+In the end, the fate of the city rests on the shoulders of Nameless and his allies as they face off against the Cult Leader and his minions in a final, epic battle. With their determination and skills, they must stop the Cult's plan before it's too late and bring justice to those who have suffered under their rule.
 
 ## Main Characters (WIP)
 
