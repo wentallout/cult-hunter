@@ -7,7 +7,7 @@ At the start of the game, Nameless, the OP chef, sets out to take down a cult th
 
 Kimber and Jigen, staying in the Assassin Club, are hired by the cult to kill Nameless but, upon realizing the truth, they join him on his mission. As they dig deeper, they discover that the Assassin Club is more connected to the cult than they thought, and that The Lawmaker, leader of the club, is a fake antagonist who secretly works for the cult.
 
-As the group continues to take down the cult's various sub-groups, they eventually come face-to-face with the Cult Leader, the mastermind behind everything. With his charismatic leadership, the Cult Leader has managed to gain the support of the city's elite, including The Lawmaker, making him a formidable opponent.
+As the group continues to take down the cult's various sub-groups, they eventually come face-to-face with the Cult Leader, the mastermind behind everything. With his charismatic leadership, the Cult Leader has managed to gain the support of the city's elite, making him a formidable opponent.
 
 Nameless and his allies must use all of their skills and resources to defeat the Cult Leader and his top subordinates, all while uncovering the truth about the cult's sinister plans for the city. As they fight their way through the Cult's hideouts, the group discovers that Nameless has a dark secret: he has been unknowingly hosting an eldritch god inside his mind, giving him immense power but also putting him at risk of losing control.
 
