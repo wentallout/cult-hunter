@@ -3,7 +3,7 @@ Khoa's work-in-progress game.
 
 ## Plot (WIP)
 
-At the start of the game, Nameless, the OP chef, sets out to take down a cult that killed his master years ago. His search leads him to the city where he begins to systematically eliminate members of the cult, fueled by a deep anger and a burning desire for revenge.
+At the start of the game, Nameless, our OP butcher/chef, sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the cult. His search leads him to "The City" where he declares war on the cults.
 
 Kimber and Jigen, staying in the Assassin Club, are hired by the cult to kill Nameless but, upon realizing the truth, they join him on his mission. As they dig deeper, they discover that the Assassin Club is more connected to the cult than they thought, and that The Lawmaker, leader of the club, is a fake antagonist who secretly works for the cult.
 
