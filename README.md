@@ -40,9 +40,9 @@ The racing club provides everyone with custom cars and gadgets. They hate the cu
 It's simple, you give them money, they kill for you, they don't pick sides. "The Hotel" is neutral sanctuary for hitmen. Hitmen are people from all background, thousands of them live in the city, they usually hangout in the Assassin Club Hotel and enjoy all the privilege: food, safety (like in John Wick).
 | name           	| gender 	| description                                                                                                                                                             	|
 |----------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| The Lawmaker   	| male   	| badass asian guy, use a cane-sword, makes all the rules for the assassins to follow, prob strongest assassin, even the cults are afraid of him.                         	|
-| The Accountant 	| female 	| sniper, sexy black lady, cold and ruthless, love cats.                                                                                                                  	|
-| Ava            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game. 	|
+| Elias (Lawmaker)   	| male   	| badass asian guy, use a cane-sword, makes all the rules for the assassins to follow, prob strongest assassin, even the cults are afraid of him.                         	|
+| Raven (Accountant) 	| female 	| sniper, sexy black lady, cold and ruthless, love cats.                                                                                                                  	|
+| Ava (Spy)            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game. 	|
 
 ### Shadow Dancer Clan (neutral)
 An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
