@@ -2,7 +2,7 @@
 Khoa's work-in-progress game.
 
 ## Inspiration
-https://en.wikipedia.org/wiki/Aum_Shinrikyo
+Japanese doomsday cult: https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
 ## Locations
 | name          	| description                                                                                                                                                                                                     	                    |
