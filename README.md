@@ -5,8 +5,8 @@ Khoa's work-in-progress game.
 | name          	| description                                                                                                                                                                                                     	                    |
 |---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | New Edom City 	| The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate individuals, some are lured into these "clubs" that turns out to be doomsday cults. 	|
-| Talon Street  	| It's a hidden part of the city protected by top-tier charms. It's known for its high-end weapon stores and The Hotel                                                                                                                    	|
-| The Hotel     	| Neutral location + a safe haven for all Hitmen. You cannot kill here. They have a membership card and unique currency which looks like casino chips |                                                                                                                                                                                                     	|
+| Talon Street  	| It's a hidden part of the city protected by top-tier charms. It's known for its high-end weapon and clothes shop |
+| Zenith Hotel    	| Neutral location + a safe haven for all Hitmen. You cannot kill here. They have a membership card and unique currency which looks like casino chips |                                                                                                                                                                                                     	|
 
 ## Plot (WIP)
 At the start of the game, Nameless, our chef (who turns out to be a martial art expert), sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the cult. His search leads him to New Edom City where he declares war on all the cults.
@@ -37,7 +37,7 @@ The racing club provides everyone with custom cars and gadgets. They hate the cu
 | Eleanor | Female | racer, she modified her cars to have all sorts of weapons to fight the cult. |
 
 ### Hitmen (neutral)
-It's simple, you give them money, they kill for you, they don't pick sides. "The Hotel" is neutral sanctuary for hitmen. Hitmen are people from all background, thousands of them live in the city, they usually hangout in the Assassin Club Hotel and enjoy all the privilege: food, safety (like in John Wick).
+It's simple, you give them money, they kill for you, they don't pick sides. Zenith Hotel is neutral sanctuary for hitmen. Hitmen are people from all background, thousands of them live in the city, they usually hangout in Zenith Hotel and enjoy all the privilege: food, safety (like in John Wick).
 | name           	| gender 	| description                                                                                                                                                             	|
 |----------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Elias (Lawmaker)   	| male   	| badass leader, use a cane-sword, makes all the rules for the assassins to follow, prob strongest assassin, even the cults are afraid of him.                         	|
