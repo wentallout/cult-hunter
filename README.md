@@ -32,7 +32,8 @@ It's simple, you give them money, they'll kill for you, they don't pick sides. "
 - Asasssins: people from all background, thousands of them live in the city, they usually hangout in the Assassin Club Hotel and enjoy all the privilege (like in John Wick)
 
 ### The Cult (main antagonist)
-The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime)
+The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime).
+There were 8 cults in total (1 main, 7 branches). One of them got wiped out by Nameless in the beginning.
 - The Leaders: charismatic leaders
 - Corrupt Government Officials and Corporate: controlled by the cult, mostly do white collar crime
 - Corrupt Cops: follow orders from the Government Officials, they take advantage of small businesses in the city to extort money.
