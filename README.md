@@ -39,6 +39,9 @@ There were 8 cults in total (1 main, 7 branches). One of them got wiped out by N
 - Corrupt Cops: follow orders from the Government Officials, they take advantage of small businesses in the city to extort money.
 - The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes (similar to Aum Shinrikyo)
 
+## Locations
+The city is a very chaotic place, people live in fear, some are being scammed by sinister individuals, some are lured into these "clubs" that turns out to be doomsday cults. 
+
 ## Gameplay (WIP)
 Something violent like John Wick, DOOM or Kill Bill. I will think about it when I start coding lmao.
 
