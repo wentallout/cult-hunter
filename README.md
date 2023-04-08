@@ -11,7 +11,7 @@ Khoa's work-in-progress game.
 ## Plot (WIP)
 At the start of the game, Nameless, our chef (who turns out to be a martial art expert), sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the cult. His search leads him to Edom City where he declares war on all the cults.
 
-Kimberly and Jigen, staying in the Assassin Club, are hired by the cult to kill Nameless but, upon realizing the truth, they join him on his mission. As they dig deeper, they discover that the cult controls everything in the city. The Lawmaker is initially believed to be working for the cult but is later revealed to be a good guy, he pretends to work for the cult but secretly helps the protagonists.
+Kimberly and Jigen, staying in the Assassin Club, are hired by the cult to kill Nameless but, upon realizing the truth, they join him on his mission. Nameless got invited to the Zenith Hotel and he learned the rules of the underworld. As they dig deeper, they discover that the cult controls everything in the city. The Lawmaker is initially believed to be working for the cult but is later revealed to be a good guy, he pretends to work for the cult but secretly helps the protagonists.
 
 As the group continues to take down the cult's various sub-groups, they eventually come face-to-face with the Cult Leader, the mastermind behind everything. With his charismatic leadership, the Cult Leader has managed to gain the support of the city's elite, making him a formidable opponent.
 
