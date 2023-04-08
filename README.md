@@ -53,18 +53,18 @@ An all female assassin clan. They're impressed after seeing Nameless fights and 
 The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime).
 There were 12 cults in total (1 main, 11 branches). One of them got wiped out by Nameless in the beginning.
 - The Cult Leaders: charismatic and powerful, each of them are immortal (until Nameless cancel them). They have crazy reality-bending powers. No one in the city knows who/where they are and what they look like so it forces the players to find clues to track them down.
-	+ No.12
-	+ No.11
-	+ No.10
-	+ No.9
-	+ No.8
-	+ No.7
-	+ No.6
-	+ No.5
-	+ No.4
-	+ No.3
-	+ No.2
-	+ No.1
+	+ Leader No.12
+	+ Leader No.11
+	+ Leader No.10
+	+ Leader No.9
+	+ Leader No.8
+	+ Leader No.7
+	+ Leader No.6
+	+ Leader No.5
+	+ Leader No.4
+	+ Leader No.3
+	+ Leader No.2
+	+ Leader No.1
   
 - Corrupt Government Officials and Corporate: controlled by the cult, mostly do white collar crime
 - Corrupt Cops: follow orders from the Government Officials, they take advantage of small businesses in the city to extort money.
