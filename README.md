@@ -42,7 +42,6 @@ It's simple, you give them money, they kill for you, they don't pick sides. "The
 
 ### Shadow Dancer Clan (neutral)
 An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
-- 
 
 ### The Cult (main antagonist)
 The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime).
