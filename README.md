@@ -13,7 +13,7 @@ Nameless and his allies must use all of their skills and resources to defeat the
 
 In the end, the fate of the city rests on the shoulders of Nameless and his allies as they face off against the Cult Leader and his minions in a final, epic battle. With their determination and skills, they must stop the Cult's plan before it's too late and bring justice to those who have suffered under their rule.
 
-## Main Characters (WIP)
+## Characters (WIP)
 
 ### Main Trinity (main playable characters)
 - Nameless (male): main protag, just an OP chef, cancel all magic attacks (super atheist), has a big secret (real eldritch god live inside his mind?)
@@ -23,15 +23,16 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 ### Racing Club (friendly allies)
 - haven't worked on this yet
 
-### Assassin Club (neutral force)
+### Assassin Club (neutral)
 - The Lawmaker (male): badass asian guy, use a cane-sword, makes all the rules for the assassins to follow, prob strongest assassin, even the cults are afraid of him.
 - The Accountant (female): sniper, sexy black lady, cold and ruthless.
 - Asasssins: people from all background, at least 1000 of them live in the city, they usually hangout in the Assassin Club Hotel and enjoy all the privilege (like in John Wick)
 
-### The Cult (main bad guy, there should be 7 sub cults and 1 main cult)
+### The Cult (main antagonist)
 The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime)
 - The Leaders: charismatic leaders
-- The Corrupted: white collar crime
+- Corrupt Government Officials: white collar crime
+- Corrupt Cops: take advantage of small business in the city.
 - The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes (similar to Aum Shinrikyo)
 
 ## Gameplay (WIP)
