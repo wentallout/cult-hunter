@@ -88,7 +88,7 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 	+ ...
 - Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate, there is a gruesome, disturbing origin behind these weapons.
 
-## Charm system (I need more ideas)
+## Charm system
 Charms only last for the duration of a run; they disappear when player dies in that stage.
 
 ## Combat System
