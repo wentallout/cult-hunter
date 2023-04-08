@@ -76,7 +76,7 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 	+ ... :usually weak but apply crazy debuff that stacks.
 	+ ...
 	+ ...
-- Cursed Weapon: hard to use but powerful, very picky about its owner, there is a gruesome, disturbing origin behind them.
+- Cursed Weapon: hard to use but powerful, very picky about its owner, there is a gruesome, disturbing origin behind them, usually grudges.
 
 
 ## Gameplay (WIP)
