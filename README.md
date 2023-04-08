@@ -24,7 +24,7 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 ### Main Trinity (main playable characters)
 | name     	| gender 	| description                                                                                                                           	|
 |----------	|--------	|---------------------------------------------------------------------------------------------------------------------------------------	|
-| Nameless 	| ?   	        | main protag, he works as a sushi chef, his Aura cancel all magic attacks, he has a big secret (an eldritch god lives inside his mind) 	|
+| Nameless 	| ?   	        | main protag, he works as a sushi chef, he throws knives and chop people up, his Aura cancel all magic attacks, he has a big secret (an eldritch god lives inside his mind) 	|
 | Kimberly 	| female 	| 2nd protag, gunsmith, dual-wielding gunslinger, can sees through objects (wall-hack)                                                  	|
 | Jigen    	| male   	| 3rd protag, weapon collector, cool black dude who use katana, can charge his attack by putting his sword inside his katana sheath     	|
 
