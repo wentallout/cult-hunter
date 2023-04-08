@@ -80,12 +80,12 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 	+ ... :usually weak but apply crazy debuff that stacks.
 	+ ...
 	+ ...
-- Cursed Weapon: hard to use but powerful, very picky about its owner, there is a gruesome, disturbing origin behind them, usually grudges.
+- Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate, there is a gruesome, disturbing origin behind these weapons.
 
 ## Combat System
 - HP: health
-- DODGE: character will automatically dodge when this bar isn't 0. It's basically shield
-- PSY: psycho
+- DODGE: character will automatically dodge when this bar isn't 0.
+- STRESS: cult members can cast psychological attacks on player that cause debuff when it reach below 0.
 
 ## Gameplay (WIP)
 Probably violent combat like John Wick, DOOM or Kill Bill. I will think about it when I start coding lmao.
