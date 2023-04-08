@@ -93,6 +93,9 @@ Charms only last for the duration of a run; they disappear when player dies in t
 - DODGE bar: character will automatically dodge when this bar isn't 0.
 - STRESS bar: cult members can cast psychological attacks on player that cause debuff (slow, lower accuracy, lower damage) when it reach below 0.
 
+## BIG SECRET
+No one knows where Nameless comes from. His master picks him up in the street. He has no parents. The Cult already assume he's 99% not human. Maybe he's an interdimensional being that comes here because of boredom.
+
 ## Gameplay (I need to learn how to code)
 I want the game to be a Roguelike with RPG elements.
 EX: if player lose on that stage, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
