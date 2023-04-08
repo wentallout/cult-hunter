@@ -83,12 +83,18 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 	+ ...
 - Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate, there is a gruesome, disturbing origin behind these weapons.
 
+## Charm system (I need more ideas)
+Charms only last for the duration of a run; they disappear when player dies in that stage.
+
 ## Combat System
 - HP bar: health
 - DODGE bar: character will automatically dodge when this bar isn't 0.
 - STRESS bar: cult members can cast psychological attacks on player that cause debuff (slow, lower accuracy, lower damage) when it reach below 0.
 
 ## Gameplay (I need to learn how to code)
+I want the game to be a Roguelike with RPG elements.
+EX: if player lose on that stage, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
+
 Probably violent combat like John Wick, DOOM or Kill Bill. I will think about it when I start coding lmao.
 
 
