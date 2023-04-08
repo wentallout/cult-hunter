@@ -96,6 +96,8 @@ Charms only last for the duration of a run; they disappear when player dies in t
 ## BIG SECRET
 No one knows where Nameless comes from. His master picks him up in the street. He has no parents. The Cult already assume he's 99% not human. Maybe he's an interdimensional being that comes here because of boredom.
 
+One possible theory: the universe senses this massive unbalanced power cause by the 12 Cults so it send an extremely powerful guardian to fix it.
+
 ## Gameplay (I need to learn how to code)
 I want the game to be a Roguelike with RPG elements.
 EX: if player lose on that stage, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
