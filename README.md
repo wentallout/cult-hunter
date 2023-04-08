@@ -4,7 +4,7 @@ Khoa's work-in-progress game.
 ## Locations
 | name          	| description                                                                                                                                                                                                     	                    |
 |---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| New Edom City 	| The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate individuals, some are lured into these "clubs" that turns out to be doomsday cults. 	|
+| Edom City 	        | The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate individuals, some are lured into these "clubs" that turns out to be doomsday cults. 	|
 | Talon Street  	| It's a hidden part of the city protected by top-tier veil charms. It's well known for its high-end weapon and clothes shop. Zenith Hotel is the main location here. |
 | Zenith Hotel    	| A safe haven for all Hitmen. Rules are strict: You cannot kill here. They have a membership card and unique currency which looks like casino chips |                                                                                                                                                                                                     	|
 
@@ -36,14 +36,16 @@ The racing club provides everyone with custom cars and gadgets. They hate the cu
 | Harper  | Female | car mechanic                                                                 |
 | Eleanor | Female | racer, she modified her cars to have all sorts of weapons to fight the cult. |
 
-### Hitmen (neutral)
+### Zenith Hotel / Hitmen (neutral)
 It's simple, you give them money, they kill for you, they don't pick sides. Zenith Hotel is neutral sanctuary for hitmen. Hitmen are people from all background, thousands of them live in the city, they usually hangout in Zenith Hotel and enjoy all the privilege: food, safety (like in John Wick).
 | name           	| gender 	| description                                                                                                                                                             	|
 |----------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Elias (Lawmaker)   	| male   	| badass leader, use a cane-sword, makes all the rules for the assassins to follow, prob strongest assassin, even the cults are afraid of him.                         	|
+| Elias (Lawmaker)   	| male   	| badass enforcer, use a cane-sword, makes all the rules for the assassins to follow, prob strongest hitmen, even the cults are afraid of him.                         	|
 | Raven (Accountant) 	| female 	| sniper, sexy black lady, cold and ruthless, love cats.                                                                                                                  	|
 | Ava (Spy)            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game. 	|
 | Naka (Doctor)         | male          | he treats everyone's wounds, will do his best to save your life as long as you have a member card     |
+| Will (Hotel Manager) | female        | the hotel manager is a retired hitmen, she's very nice to everyone but don't fuck around in her hotel, rules are there for a reason.  |
+
 ### Shadow Dancer Clan (neutral)
 An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
 
