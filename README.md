@@ -4,13 +4,6 @@ Khoa's work-in-progress game.
 ## Inspiration
 Japanese doomsday cult: https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
-## Locations
-| name          	| description                                                                                                                                                                                                     	                    |
-|---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Edom City 	        | The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate , some are lured into these "clubs" that turns out to be doomsday cults. 	|
-| Talon Street  	| It's a hidden part of the city protected by top-tier veil charms. It's well known for its high-end weapon and clothes shop. Zenith Hotel is the main location here. |
-| Zenith Hotel    	| A safe haven for all Hitmen. Rules are strict: You cannot kill here. They have a membership card and unique currency which looks like casino chips |                                                                                                                                                                                                     	|
-
 ## Plot (WIP)
 At the start of the game, Nameless, our chef (who turns out to be a martial art expert), sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the cult. His search leads him to Edom City where he declares war on all the cults.
 
@@ -21,6 +14,14 @@ As the group continues to take down the cult's various sub-groups, they eventual
 Nameless and his allies must use all of their skills and resources to defeat the Cult Leader and his top subordinates, all while uncovering the truth about the cult's sinister plans for the city. As they fight their way through the Cult's hideouts, the group discovers that Nameless has a dark secret: he has been unknowingly hosting an eldritch god inside his mind, giving him immense power but also putting him at risk of losing control. The cult is aware of this "entity" and want to capture Nameless to harness its power.
 
 In the end, the fate of the city rests on the shoulders of Nameless and his allies as they face off against the Cult Leader and his minions in a final, epic battle. With their determination and skills, they must stop the Cult's plan before it's too late and bring justice to those who have suffered under their rule.
+
+## Locations
+| name          	| description                                                                                                                                                                                                     	                    |
+|---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Edom City 	        | The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate , some are lured into these "clubs" that turns out to be doomsday cults. 	|
+| Talon Street  	| It's a hidden part of the city protected by top-tier veil charms. It's well known for its high-end weapon and clothes shop. Zenith Hotel is the main location here. |
+| Zenith Hotel    	| A safe haven for all Hitmen. Rules are strict: You cannot kill here. They have a membership card and unique currency which looks like casino chips |                  
+
 
 ## Characters
 
@@ -47,7 +48,7 @@ It's simple, you give them money, they kill for you, they don't pick sides. Zeni
 | Raven (Accountant) 	| female 	| sniper, sexy black lady, cold and ruthless, love cats.                                                                                                                  	|
 | Ava (Spy)            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game. 	|
 | Naka (Doctor)         | male          | he treats everyone's wounds, will do his best to save your life as long as you have a member card     |
-| Will (Hotel Manager) | female        | the hotel manager is a retired hitmen, she's very nice to everyone but don't fuck around in her hotel, rules are there for a reason.  |
+| Will (Hotel Manager)  | female        | the hotel manager is a retired hitmen, she's very nice to everyone but don't fuck around in her hotel, rules are there for a reason.  |
 
 ### Shadow Dancer Clan (neutral)
 An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
