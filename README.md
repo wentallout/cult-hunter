@@ -52,7 +52,7 @@ An all female assassin clan. They're impressed after seeing Nameless fights and 
 ### The Cult (main antagonist)
 The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime).
 There were 12 cults in total (1 main, 11 branches). One of them got wiped out by Nameless in the beginning.
-- The Cult Leaders: charismatic leaders, each of them are immortal (until Nameless cancel them) and have crazy reality-bending powers. No one in the city knows who/where they are and what they look like so it forces the players to find clues to track them down.
+- The Cult Leaders: charismatic and powerful, each of them are immortal (until Nameless cancel them). They have crazy reality-bending powers. No one in the city knows who/where they are and what they look like so it forces the players to find clues to track them down.
 	+ No.12
 	+ No.11
 	+ No.10
