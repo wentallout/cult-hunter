@@ -5,7 +5,7 @@ Khoa's work-in-progress game.
 | name          	| description                                                                                                                                                                                                     	                    |
 |---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | New Edom City 	| The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate individuals, some are lured into these "clubs" that turns out to be doomsday cults. 	|
-| Talon Street  	| hidden part of the city protected by top-tier charms. It's known for its high-end weapon stores and The Hotel                                                                                                                    	|
+| Talon Street  	| It's a hidden part of the city protected by top-tier charms. It's known for its high-end weapon stores and The Hotel                                                                                                                    	|
 | The Hotel     	| I'm still working on the name. Basically a safe haven for all Hitmen.                                                                                                                                                                                                    	|
 
 ## Plot (WIP)
@@ -28,9 +28,11 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 
 ### Eleanor Racing Club (friendly allies)
 The racing club provides everyone with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
-- Takumi (male): drifter, car tuner
-- Harper (female): car mechanic
-- Eleanor (female): racer, she modified her cars to have all sorts of weapons to fight the cult.
+| Name |Gender  |Description  |
+| --- | --- | --- |
+| Takumi | Male | drifter, car tuner |
+|Harper  |Female  |  car mechanic|
+|  Eleanor   |  Female        | racer, she modified her cars to have all sorts of weapons to fight the cult.|
 
 ### Hitmen (neutral)
 It's simple, you give them money, they kill for you, they don't pick sides. "The Hotel" is neutral sanctuary for hitmen. Hitmen are people from all background, thousands of them live in the city, they usually hangout in the Assassin Club Hotel and enjoy all the privilege: food, safety (like in John Wick).
@@ -39,7 +41,8 @@ It's simple, you give them money, they kill for you, they don't pick sides. "The
 - Ava: a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game.
 
 ### Shadow Dancer Clan (neutral)
-An all female assassin clan.
+An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
+- 
 
 ### The Cult (main antagonist)
 The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime).
