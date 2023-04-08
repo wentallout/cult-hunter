@@ -22,23 +22,27 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 ## Characters
 
 ### Main Trinity (main playable characters)
-- Nameless (male): main protag, he works as a sushi chef, his Aura cancel all magic attacks, he has a big secret (an eldritch god lives inside his mind)
-- Kimberly (female): 2nd protag, gunsmith, dual-wielding gunslinger, can sees through objects (wall-hack)
-- Jigen (male): 3rd protag, weapon collector, cool black dude who use katana, can charge his attack by putting his sword inside his katana sheath 
+| name     	| gender 	| description                                                                                                                           	|
+|----------	|--------	|---------------------------------------------------------------------------------------------------------------------------------------	|
+| Nameless 	| male   	| main protag, he works as a sushi chef, his Aura cancel all magic attacks, he has a big secret (an eldritch god lives inside his mind) 	|
+| Kimberly 	| female 	| 2nd protag, gunsmith, dual-wielding gunslinger, can sees through objects (wall-hack)                                                  	|
+| Jigen    	| male   	| 3rd protag, weapon collector, cool black dude who use katana, can charge his attack by putting his sword inside his katana sheath     	|
 
 ### Eleanor Racing Club (friendly allies)
 The racing club provides everyone with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
-| Name |Gender  |Description  |
-| --- | --- | --- |
-| Takumi | Male | drifter, car tuner |
-|Harper  |Female  |  car mechanic|
-|  Eleanor   |  Female        | racer, she modified her cars to have all sorts of weapons to fight the cult.|
+| Name    | Gender | Description                                                                  |
+|---------|--------|------------------------------------------------------------------------------|
+| Takumi  | Male   | drifter, car tuner                                                           |
+| Harper  | Female | car mechanic                                                                 |
+| Eleanor | Female | racer, she modified her cars to have all sorts of weapons to fight the cult. |
 
 ### Hitmen (neutral)
 It's simple, you give them money, they kill for you, they don't pick sides. "The Hotel" is neutral sanctuary for hitmen. Hitmen are people from all background, thousands of them live in the city, they usually hangout in the Assassin Club Hotel and enjoy all the privilege: food, safety (like in John Wick).
-- The Lawmaker (male): badass asian guy, use a cane-sword, makes all the rules for the assassins to follow, prob strongest assassin, even the cults are afraid of him.
-- The Accountant (female): sniper, sexy black lady, cold and ruthless.
-- Ava: a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game.
+| name           	| gender 	| description                                                                                                                                                             	|
+|----------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| The Lawmaker   	| male   	| badass asian guy, use a cane-sword, makes all the rules for the assassins to follow, prob strongest assassin, even the cults are afraid of him.                         	|
+| The Accountant 	| female 	| sniper, sexy black lady, cold and ruthless, love cats.                                                                                                                  	|
+| Ava            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game. 	|
 
 ### Shadow Dancer Clan (neutral)
 An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
@@ -78,6 +82,10 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 	+ ...
 - Cursed Weapon: hard to use but powerful, very picky about its owner, there is a gruesome, disturbing origin behind them, usually grudges.
 
+## Combat System
+- HP: health
+- DODGE: character will automatically dodge when this bar isn't 0. It's basically shield
+- PSY: psycho
 
 ## Gameplay (WIP)
 Probably violent combat like John Wick, DOOM or Kill Bill. I will think about it when I start coding lmao.
