@@ -69,10 +69,11 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 - The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes (similar to Aum Shinrikyo)
 
 ## Power System
-- Magic: unfortunately people with real magic are extinct. So most magic in the game world comes from people making contract with interdimensional entities. You usually have to offer something to get something back but it's usually human souls.
-- Curse: 
+- Forbidden Magic: unfortunately people with real/natural magic are extinct. So most magic in the game world comes from people making contract with interdimensional entities. You usually have to offer something to get something back but it's usually human souls.
+- Curse Tattoo: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
+- Aura: characters can emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey something. (ex: Nameless aura makes people unable to use magic)
 
-## Weapon System
+## Weapon System (Work-in-progess)
 - Normal weapon: guns, blades from the modern world
 - Set weapon: the most powerful weapons in the game comes from one of the many sets. Each set is crafted made by one family.
 	+ ... Set: has a demon in it, gives user new unique skills.
@@ -87,7 +88,7 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 - DODGE bar: character will automatically dodge when this bar isn't 0.
 - STRESS bar: cult members can cast psychological attacks on player that cause debuff (slow, lower accuracy, lower damage) when it reach below 0.
 
-## Gameplay (WIP)
+## Gameplay (I need to learn how to code)
 Probably violent combat like John Wick, DOOM or Kill Bill. I will think about it when I start coding lmao.
 
 
