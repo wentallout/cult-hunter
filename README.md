@@ -4,7 +4,7 @@ Khoa's work-in-progress game.
 ## Locations
 | name          	| description                                                                                                                                                                                                     	                    |
 |---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Edom City 	        | The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate individuals, some are lured into these "clubs" that turns out to be doomsday cults. 	|
+| Edom City 	        | The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate , some are lured into these "clubs" that turns out to be doomsday cults. 	|
 | Talon Street  	| It's a hidden part of the city protected by top-tier veil charms. It's well known for its high-end weapon and clothes shop. Zenith Hotel is the main location here. |
 | Zenith Hotel    	| A safe haven for all Hitmen. Rules are strict: You cannot kill here. They have a membership card and unique currency which looks like casino chips |                                                                                                                                                                                                     	|
 
