@@ -9,7 +9,7 @@ Khoa's work-in-progress game.
 | Zenith Hotel    	| A safe haven for all Hitmen. Rules are strict: You cannot kill here. They have a membership card and unique currency which looks like casino chips |                                                                                                                                                                                                     	|
 
 ## Plot (WIP)
-At the start of the game, Nameless, our chef (who turns out to be a martial art expert), sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the cult. His search leads him to New Edom City where he declares war on all the cults.
+At the start of the game, Nameless, our chef (who turns out to be a martial art expert), sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the cult. His search leads him to Edom City where he declares war on all the cults.
 
 Kimberly and Jigen, staying in the Assassin Club, are hired by the cult to kill Nameless but, upon realizing the truth, they join him on his mission. As they dig deeper, they discover that the cult controls everything in the city. The Lawmaker is initially believed to be working for the cult but is later revealed to be a good guy, he pretends to work for the cult but secretly helps the protagonists.
 
