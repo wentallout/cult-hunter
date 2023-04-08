@@ -30,7 +30,7 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 
 ### Eleanor Racing Club (friendly allies)
 The racing club provides everyone with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
-| Name    | Gender | Description                                                                  |
+| name    | hender | description                                                                  |
 |---------|--------|------------------------------------------------------------------------------|
 | Takumi  | Male   | drifter, car tuner                                                           |
 | Harper  | Female | car mechanic                                                                 |
