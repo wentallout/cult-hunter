@@ -30,7 +30,7 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 
 ### Eleanor Racing Club (friendly allies)
 The racing club provides everyone with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
-| name    | hender | description                                                                  |
+| name    | gender | description                                                                  |
 |---------|--------|------------------------------------------------------------------------------|
 | Takumi  | Male   | drifter, car tuner                                                           |
 | Harper  | Female | car mechanic                                                                 |
@@ -83,9 +83,9 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 - Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate, there is a gruesome, disturbing origin behind these weapons.
 
 ## Combat System
-- HP: health
-- DODGE: character will automatically dodge when this bar isn't 0.
-- STRESS: cult members can cast psychological attacks on player that cause debuff when it reach below 0.
+- HP bar: health
+- DODGE bar: character will automatically dodge when this bar isn't 0.
+- STRESS bar: cult members can cast psychological attacks on player that cause debuff (slow, lower accuracy, lower damage) when it reach below 0.
 
 ## Gameplay (WIP)
 Probably violent combat like John Wick, DOOM or Kill Bill. I will think about it when I start coding lmao.
