@@ -64,6 +64,20 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 - Corrupt Cops: follow orders from the Government Officials, they take advantage of small businesses in the city to extort money.
 - The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes (similar to Aum Shinrikyo)
 
+## Power System
+- Magic: unfortunately people with real magic are extinct. So most magic in the game world comes from people making contract with interdimensional entities. You usually have to offer something to get something back but it's usually human souls.
+- Curse: 
+
+## Weapon System
+- Normal weapon: guns, blades from the modern world
+- Set weapon: the most powerful weapons in the game comes from one of the many sets. Each set is crafted made by one family.
+	+ ... Set: has a demon in it, gives user new unique skills.
+	+ ... Set: bless its owner with big stats and shield.
+	+ ... :usually weak but apply crazy debuff that stacks.
+	+ ...
+	+ ...
+- Cursed Weapon: hard to use but powerful, very picky about its owner, there is a gruesome, disturbing origin behind them.
+
 
 ## Gameplay (WIP)
 Probably violent combat like John Wick, DOOM or Kill Bill. I will think about it when I start coding lmao.
