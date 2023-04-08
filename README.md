@@ -26,7 +26,7 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 |----------	|--------	|---------------------------------------------------------------------------------------------------------------------------------------	|
 | Nameless 	| ?   	        | main protag, he works as a sushi chef, he throws knives and chop people up, his Aura cancel all magic attacks, he has a big secret (an eldritch god lives inside his mind) 	|
 | Kimberly 	| female 	| 2nd protag, gunsmith, dual-wielding gunslinger, can sees through objects (wall-hack)                                                  	|
-| Jigen    	| male   	| 3rd protag, weapon collector, cool black dude who use katana, can charge his attack by putting his sword inside his katana sheath     	|
+| Jigen    	| male   	| 3rd protag, weapon collector, cool black dude who use katana, can charge his attack by putting his sword inside his katana sheath, he can teleport to his thrown weapons     	|
 
 ### Eleanor Racing Club (friendly allies)
 The racing club provides everyone with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
