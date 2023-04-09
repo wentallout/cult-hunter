@@ -75,9 +75,9 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 - The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes (similar to Aum Shinrikyo)
 
 ## Power System
-- Forbidden Magic: unfortunately people with real/natural magic are extinct. So most magic in the game world comes from people making contract with interdimensional entities. You usually have to offer something to get something back but it's usually human souls.
-- Curse Tattoo: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
-- Aura: characters can emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey something. (ex: Nameless aura makes people unable to use magic)
+- Forbidden Magic: unfortunately people with real/natural magic are extinct. So most magic in the game world comes from people making contract with interdimensional entities. You usually have to offer something to get a contract.
+- Enchanted Tattoo: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
+- Aura: strong characters can emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey something. (ex: Nameless aura makes people unable to use magic)
 
 ## Weapon System (Work-in-progess)
 - Normal weapon: guns, blades from the modern world
