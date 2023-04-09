@@ -1,6 +1,12 @@
 # cult-hunter
 Khoa's work-in-progress game.
 
+## Development
+
+Step 1: Download the latest Godot here: https://godotengine.org/download/windows/
+
+Step 2: Open `project.godot` with your Godot application
+
 ## Inspiration
 Japanese doomsday cult: https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
