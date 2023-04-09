@@ -16,6 +16,7 @@ Nameless and his allies must use all of their skills and resources to defeat the
 In the end, the fate of the city rests on the shoulders of Nameless and his allies as they face off against the Cult Leader and his minions in a final, epic battle. With their determination and skills, they must stop the Cult's plan before it's too late and bring justice to those who have suffered under their rule.
 
 ## Locations
+
 | name          	| description                                                                                                                                                                                                     	                    |
 |---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Edom City 	        | The city which is the main location of the game. It's a very chaotic place, people live in fear, some are being scammed by sinister corporate , some are lured into these "clubs" that turns out to be doomsday cults. 	|
@@ -26,6 +27,7 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 ## Characters
 
 ### Main Trinity (main playable characters)
+
 | name     	| gender 	| description                                                                                                                           	|
 |----------	|--------	|---------------------------------------------------------------------------------------------------------------------------------------	|
 | Nameless 	| ?   	        | main protag, he works as a sushi chef, he throws knives and chop people up, his Aura cancel all magic attacks, he has a big secret (an eldritch god lives inside his mind) 	|
@@ -34,6 +36,7 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 
 ### Eleanor Racing Club (friendly allies)
 The racing club provides everyone with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
+
 | name    | gender | description                                                                  |
 |---------|--------|------------------------------------------------------------------------------|
 | Takumi  | Male   | drifter, car tuner                                                           |
@@ -42,13 +45,14 @@ The racing club provides everyone with custom cars and gadgets. They hate the cu
 
 ### Zenith Hotel / Hitmen (neutral)
 It's simple, you give them money, they kill for you, they don't pick sides. Zenith Hotel is neutral sanctuary for hitmen. Hitmen are people from all background, thousands of them live in the city, they usually hangout in Zenith Hotel and enjoy all the privilege: food, safety (like in John Wick).
+
 | name           	| gender 	| description                                                                                                                                                             	|
 |----------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Elias (Lawmaker)   	| male   	| badass enforcer, use a cane-sword, makes all the rules for the assassins to follow, prob strongest hitmen, even the cults are afraid of him.                         	|
+| Elias (Lawmaker)   	| male   	| badass enforcer, use a cane-sword, makes all the rules for the assassins to follow, prob strongest hitmen, even the cults are afraid of him.                         	        |
 | Raven (Accountant) 	| female 	| sniper, sexy black lady, cold and ruthless, love cats.                                                                                                                  	|
 | Ava (Spy)            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game. 	|
-| Naka (Doctor)         | male          | He will do his best to save your life as long as you're a member of the hotel.    |
-| Will (Hotel Manager)  | female        | the hotel manager is a retired hitmen, she's very polite to everyone but don't fuck around in her hotel, rules are there for a reason.  |
+| Naka (Doctor)         | male          | He will do his best to save your life as long as you're a member of the hotel.                                                                                                |
+| Will (Hotel Manager)  | female        | the hotel manager is a retired hitmen, she's very polite to everyone but don't fuck around in her hotel, rules are there for a reason.                                        |
 
 ### Shadow Dancer Clan (neutral)
 An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
@@ -107,6 +111,6 @@ I want the game to be a 2D side-scrolling Roguelike with RPG elements.
 
 If player lose on that stage, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
 
-Combat: has to be super violent.
+Combat: violent, bloody, intense.
 
 
