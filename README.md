@@ -103,9 +103,10 @@ No one knows where Nameless comes from. His master picks him up in the street. H
 One possible theory: the universe senses this massive lack of balance cause by the 12 Cults so it send an extremely powerful "guardian" to fix it.
 
 ## Gameplay (I need to learn how to code)
-I want the game to be a Roguelike with RPG elements.
-EX: if player lose on that stage, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
+I want the game to be a 2D side-scrolling Roguelike with RPG elements.
 
-Probably violent combat like John Wick, DOOM or Kill Bill. I will think about it when I start coding lmao.
+If player lose on that stage, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
+
+Combat: has to be super violent.
 
 
