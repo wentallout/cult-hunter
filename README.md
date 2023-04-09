@@ -47,8 +47,8 @@ It's simple, you give them money, they kill for you, they don't pick sides. Zeni
 | Elias (Lawmaker)   	| male   	| badass enforcer, use a cane-sword, makes all the rules for the assassins to follow, prob strongest hitmen, even the cults are afraid of him.                         	|
 | Raven (Accountant) 	| female 	| sniper, sexy black lady, cold and ruthless, love cats.                                                                                                                  	|
 | Ava (Spy)            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder. She secretly loves Nameless and give him hints throughout the game. 	|
-| Naka (Doctor)         | male          | he treats everyone's wounds, will do his best to save your life as long as you have a member card     |
-| Will (Hotel Manager)  | female        | the hotel manager is a retired hitmen, she's very nice to everyone but don't fuck around in her hotel, rules are there for a reason.  |
+| Naka (Doctor)         | male          | He will do his best to save your life as long as you're a member of the hotel.    |
+| Will (Hotel Manager)  | female        | the hotel manager is a retired hitmen, she's very polite to everyone but don't fuck around in her hotel, rules are there for a reason.  |
 
 ### Shadow Dancer Clan (neutral)
 An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
