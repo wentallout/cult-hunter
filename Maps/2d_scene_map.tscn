@@ -1,11 +1,12 @@
-[gd_scene load_steps=2 format=3 uid="uid://cpmgnbsao164s"]
+[gd_scene load_steps=2 format=3 uid="uid://c0wok7a5aamxb"]
 
-[ext_resource type="Texture2D" uid="uid://cu0pku785cgc3" path="res://icon.svg" id="1_6ep0w"]
+[ext_resource type="Texture2D" uid="uid://shvy7cryawsx" path="res://TestAssets/Pixel Adventure 1/Main Characters/Ninja Frog/Idle (32x32).png" id="2_y1ado"]
 
 [node name="2DSceneMap" type="Node2D"]
-position = Vector2(16, 19)
+texture_filter = 1
+position = Vector2(11, -4)
 
-[node name="Icon" type="Sprite2D" parent="."]
-position = Vector2(47, 65)
-scale = Vector2(0.189453, 0.189453)
-texture = ExtResource("1_6ep0w")
+[node name="Idle(32x32)" type="Sprite2D" parent="."]
+position = Vector2(149, 74)
+scale = Vector2(0.796, 0.796)
+texture = ExtResource("2_y1ado")
