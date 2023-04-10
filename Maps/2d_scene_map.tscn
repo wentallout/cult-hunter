@@ -1,6 +1,30 @@
-[gd_scene load_steps=2 format=3 uid="uid://cpmgnbsao164s"]
+[gd_scene load_steps=5 format=3 uid="uid://cpmgnbsao164s"]
 
 [ext_resource type="Texture2D" uid="uid://cu0pku785cgc3" path="res://icon.svg" id="1_6ep0w"]
+[ext_resource type="Texture2D" uid="uid://be0gjroju666m" path="res://TestAssets/Pixel Adventure 1/Free/Main Characters/Mask Dude/Jump (32x32).png" id="2_b1bhf"]
+[ext_resource type="Texture2D" uid="uid://fbnrjgkq5e1x" path="res://TestAssets/Pixel Adventure 1/Free/Main Characters/Mask Dude/Fall (32x32).png" id="3_savjs"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ej5me"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_b1bhf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_b1bhf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_savjs")
+}],
+"loop": true,
+"name": &"up",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"walk",
+"speed": 5.0
+}]
 
 [node name="2DSceneMap" type="Node2D"]
 position = Vector2(16, 19)
@@ -9,3 +33,12 @@ position = Vector2(16, 19)
 position = Vector2(47, 65)
 scale = Vector2(0.189453, 0.189453)
 texture = ExtResource("1_6ep0w")
+
+[node name="Player" type="Area2D" parent="."]
+position = Vector2(217, 87)
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Player"]
+position = Vector2(-168, 55)
+sprite_frames = SubResource("SpriteFrames_ej5me")
+animation = &"up"
+frame_progress = 0.258256
