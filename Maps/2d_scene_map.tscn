@@ -1,30 +1,84 @@
-[gd_scene load_steps=5 format=3 uid="uid://cpmgnbsao164s"]
+[gd_scene load_steps=10 format=3 uid="uid://cpmgnbsao164s"]
 
 [ext_resource type="Texture2D" uid="uid://cu0pku785cgc3" path="res://icon.svg" id="1_6ep0w"]
-[ext_resource type="Texture2D" uid="uid://be0gjroju666m" path="res://TestAssets/Pixel Adventure 1/Free/Main Characters/Mask Dude/Jump (32x32).png" id="2_b1bhf"]
-[ext_resource type="Texture2D" uid="uid://fbnrjgkq5e1x" path="res://TestAssets/Pixel Adventure 1/Free/Main Characters/Mask Dude/Fall (32x32).png" id="3_savjs"]
+[ext_resource type="Texture2D" uid="uid://cmpnd458k5e7v" path="res://adventurer_sprite_sheet_v1.1.png" id="2_xgmve"]
+[ext_resource type="Texture2D" uid="uid://dcoj2xvu0vls" path="res://Spider Sprite Sheet.png" id="3_qahir"]
 
-[sub_resource type="SpriteFrames" id="SpriteFrames_ej5me"]
-animations = [{
-"frames": [{
-"duration": 1.0,
-"texture": ExtResource("2_b1bhf")
-}, {
-"duration": 1.0,
-"texture": ExtResource("2_b1bhf")
-}, {
-"duration": 1.0,
-"texture": ExtResource("3_savjs")
-}],
-"loop": true,
-"name": &"up",
-"speed": 5.0
-}, {
-"frames": [],
-"loop": true,
-"name": &"walk",
-"speed": 5.0
-}]
+[sub_resource type="Animation" id="Animation_wysdr"]
+resource_name = "Idle"
+length = 2.0
+loop_mode = 2
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [0, 11]
+}
+
+[sub_resource type="Animation" id="Animation_j6fuu"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_t3o1i"]
+_data = {
+"Idle": SubResource("Animation_wysdr"),
+"RESET": SubResource("Animation_j6fuu")
+}
+
+[sub_resource type="Animation" id="Animation_8r1ow"]
+resource_name = "Idle"
+length = 2.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [29, 20]
+}
+
+[sub_resource type="Animation" id="Animation_sedgm"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_vyr3i"]
+_data = {
+"Idle": SubResource("Animation_8r1ow"),
+"RESET": SubResource("Animation_sedgm")
+}
 
 [node name="2DSceneMap" type="Node2D"]
 position = Vector2(16, 19)
@@ -37,8 +91,26 @@ texture = ExtResource("1_6ep0w")
 [node name="Player" type="Area2D" parent="."]
 position = Vector2(217, 87)
 
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Player"]
-position = Vector2(-168, 55)
-sprite_frames = SubResource("SpriteFrames_ej5me")
-animation = &"up"
-frame_progress = 0.258256
+[node name="Sprite2D" type="Sprite2D" parent="Player"]
+position = Vector2(-199, 58)
+texture = ExtResource("2_xgmve")
+hframes = 13
+vframes = 8
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Player"]
+libraries = {
+"": SubResource("AnimationLibrary_t3o1i")
+}
+
+[node name="Mob" type="Area2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="Mob"]
+position = Vector2(57, 144)
+texture = ExtResource("3_qahir")
+hframes = 9
+vframes = 16
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Mob"]
+libraries = {
+"": SubResource("AnimationLibrary_vyr3i")
+}
