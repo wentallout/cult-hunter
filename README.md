@@ -18,7 +18,7 @@ Open `project.godot` with your Godot application
 Japanese doomsday cult - Aum Shinrikyo: https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
 ## Plot (WIP)
-At the start of the game, Nameless, our ordinary sushi chef, sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the real cult. His search leads him to Edom City where he declares war on all these evil cults.
+At the start of the game, Nameless, our ordinary sushi chef, sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the real cult. His search leads him to city where he declares war on all these evil cults.
 
 Kimberly and Jigen are well known hitmen, are hired by the cult to kill Nameless but they chose to befriend him instead. Nameless got invited to the Zenith Hotel and he learned the rules of the underworld. As they dig deeper, they discover that the cult controls everything in the city. The Lawmaker, the secret leader of Zenith Hotel, he pretends to work for the cult but secretly helps the protagonists.
 
@@ -32,7 +32,7 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 
 | name          	| description                                                                                                                                                                                                     	                    |
 |---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Edom City 	        | The city which is the main location of the game. Peaceful outside but it's a very chaotic place, people live in fear, some are being scammed by sinister corporate , some are lured into these "clubs" that turns out to be doomsday cults. 	|
+| Havenbrook City 	| The city which is the main location of the game. Peaceful outside but it's a very chaotic place, people live in fear, some are being scammed by sinister corporate , some are lured into these "clubs" that turns out to be doomsday cults. 	|
 | Talon Street  	| It's a hidden part of the city protected by top-tier veil charms. It's well known for its high-end weapon and clothes shop. Zenith Hotel is the main location here. |
 | Zenith Hotel    	| A safe haven for all Hitmen. Rules are strict: You cannot kill here. They have a membership card and unique currency which looks like casino chips |                  
 
