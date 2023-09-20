@@ -39,6 +39,8 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 
 ## Characters
 
+I try to keep a balance number of male and female.
+
 ### Trinity (Main Protagonists)
 
 | name     	| gender 	| description                                                                                                                           	|
@@ -52,7 +54,7 @@ The Eleanor racing club provides assassins with custom cars and gadgets. They ha
 
 | name    | gender | description                                                                  |
 |---------|--------|------------------------------------------------------------------------------|
-| Takumi  | Male   | hacker                                                          |
+| Tak  | Male   | hacker                                                          			|
 | Harper  | Female | car mechanic                                                                 |
 | Eleanor | Female | battle racer, she modified her cars to have all sorts of weapons to fight the cult. |
 
@@ -61,7 +63,7 @@ It's simple, you give them money, they kill for you, they don't pick sides. Zeni
 
 | name           	| gender 	| description                                                                                                                                                             	|
 |----------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Elias (Lawmaker)   	| male   	| badass leader, use a cane-sword, makes all the rules for the assassins to follow, weakest but extremely intelligent, even the cults are afraid of him.                         	        |
+| Eli (Lawmaker)   	| male   	| badass leader, use a cane-sword, makes all the rules for the assassins to follow, weakest but extremely intelligent, even the cults are afraid of him.                         	        |
 | Raven (Accountant) 	| female 	| sniper, cold and ruthless, love cats.                                                                                                                  	|
 | Ava (Spy)            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder, secretly loves Nameless and give him hints to help him. 	|
 | Naka (Doctor)         | male          | He will do his best to save your life as long as you're a member of the hotel.                                                                                                |
@@ -72,33 +74,28 @@ An all female assassin clan. They're impressed after seeing Nameless fights and 
 
 ### The Cult (Main Antagonists)
 
-Your main enemies in the game are cult members, cult leaders and the monsters they summon.
+The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime). Your main enemies in the game are cult members, the 12 Apostles and all the monsters they summon. 
 
-The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime).
-There were 12 cults in total (1 main, 11 branches). One of them got wiped out by Nameless in the beginning.
-- The Cult Leaders: charismatic and powerful, each of them are immortal (until Nameless shows). They have crazy reality-bending powers. No one in the city knows who/where they are and what they look like so it forces the players to find clues to track them down.
-	+ Leader No.12
-	+ Leader No.11 WIP
-	+ Leader No.10 WIP
-	+ Leader No.9 WIP
-	+ Leader No.8 WIP
-	+ Leader No.7 WIP
-	+ Leader No.6 WIP
-	+ Leader No.5 WIP
-	+ Leader No.4 WIP
-	+ Leader No.3 WIP
-	+ Leader No.2 WIP
-	+ Leader No.1: WIP
+There were 12 cults in total (1 main, 11 branches). One of them got wiped out by Nameless in the tutorial, this kickstarted the war.
+- The Cult Leaders (Twelve Apostles): immortal, charismatic and powerful. They have crazy reality-bending powers. They manipulate and abuse people in the city for money/enjoyment. No one in the city knows who/where they are and what they look like so it forces the players to find clues to track them down.
+	+ No.1: Elara (she thinks she predicts natural disaster but is actually causing it)
+	+ No.2: Malachi (controls blood, granting him enhanced strength and healing
+	+ No.3: Luna (turn invisible and creates illusions, bright light nullifies her)
+	+ No.4: Samson (he creates a mini Sun and burn everything in its path)
+	+ No.5: Isolde (she can accelerate the growth and mutation of plants, even creating sentient plant guardians. However, her powers are weakened in barren or polluted environments.)
+	+ No.6: Raziel (Raziel can manipulate and create gravitational fields, enabling him to levitate objects and create localized gravitational anomalies. However, overusing this power makes him susceptible to disorientation.)
+	+ No.7: Victor (he can transmute matter, turning one substance into another, but he requires a sample of the desired material, and the process is time-consuming)
+	+ No.8: Selene (she can enters and manipulate dreams)
+	+ No.9: Maxwell (can create temporary breaches to other dimensions, summoning exotic creatures and objects. However, these rifts can be unpredictable and unstable)
+	+ No.10: Ella (she plays music, the notes turn into flying blades, she dances with a sharp paper fan while attacking)
+	+ No.11: Coin (absorb and redirect physical forces)
+	+ No.12: Zeke (he's a horror painter... anything he draws come into life 😱)
   
 - Corrupt Government Officials and Corporate: controlled by the cult, mostly do white collar crime
 - Corrupt Cops: follow orders from the Government Officials, they take advantage of small businesses in the city to extort money.
 - The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes (similar to Aum Shinrikyo)
 
-## Power System
 
-- Forbidden Magic: people with natural magic are already extinct. So most magic in the game world comes from people making contract with interdimensional entities. You usually have to offer something to get a contract.
-- `CURSED TATTOO`: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
-- `AURA`: strong characters can emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless aura makes people unable to use magic)
 
 ## Equipments (mostly weapons since armors are just fashion)
 
@@ -113,17 +110,27 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 
 ## Character Stats
 
-- `HP` bar: health
+- `HP` bar: health bar, if it reaches 0 your run ends and you have to try the whole thing again (this game is rogue-like)
 - `DODGE` bar (to replace SHIELD): character will automatically dodge when this bar isn't 0.
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
 
 ## Basic Gameplay
 
 - Players will travel through a big tall building (for example like: https://en.wikipedia.org/wiki/Church_of_Scientology), clearing all enemies to get to the next floor. After clearing a floor they will receive a buff (charm) to get stronger.
-- Some enemies are tanky and may require long combos. You can to a `FINISHER`
+- Some enemies are tanky and may require long combos.
 - Roguelike: players receive temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will help players survive the brutal difficulty.
 - Loot: enemies will drop weapons that you can pickup and enhance/modify with runes
 - Progression: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
+
+## Power System
+
+- Forbidden Magic: people with natural magic are already extinct. So most magic in the game world comes from people making contract with interdimensional entities. You usually have to offer something to get a contract.
+- `CURSED TATTOO`: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
+- `AURA`: strong characters emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
+
+## Style system
+
+One character can have multiple fighting style.
 
 ## Controls
 
@@ -131,23 +138,32 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 
 - Move: `W,A,S,D`
 - Jump: `SPACE`
-- Dash: tap `SHIFT`, dash into an obstacle will make characters "parkour" through it
-- Dash Attack: `SHIFT`-> `LEFT MOUSE`
-- Dash Jump: `SHIFT` -> `SPACE`
 - Crouch: `CTRL`
-- Running: hold `SHIFT` to run, you can do `WALL RUNNING` if you run and touch a wall.
-- View: `MOVE MOUSE`
+
+- Dash: `SHIFT`, dash into an obstacle will make characters "parkour" through it
+- Dash Attack: `SHIFT` then `LEFT MOUSE`
+- Dash Jump: `SHIFT` then `SPACE`
+- Dash Slide: `SHIFT` then `CTRL`
+- Sprint: hold `SHIFT` to sprint, you can do `WALL RUNNING` if you run and touch a wall.
+
+
+- View: `MOUSE`
 - Block: `RIGHT MOUSE`
 - Attack : `LEFT MOUSE`
 - Launcher: `SCROLL WHEEL UP`, launch enemies into the air
+- Finsher: tap `SCROLL WHEEL` to do a fancy animation and execute an enemy
+- Swap weapons: `TAB`
 - Pick/throw/kick: `G`, if your character can't pick something up, like a heavy table, they'll launch it into nearest enemies. If there's nothing to pickup, they'll kick enemies.
 - Skills: `1`,`2`,`3`,`4`
-- Rage: `Q`+`E`
+- Rage: `Q`+`E` (still working on this)
   
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a long combo, you can press `Q` or `E` to launch a devasting explosive attack. Some characters have AoE `ENDER`, some have single target `ENDER`, some even have unique `ENDER` mechanics (stacks, debuffs)
+- `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
 
 Most combos are just:
 - `LEFT MOUSE` x2, x3, x4, x5 then end with `Q` or `E`
+
+## Gives players more choice, expand their creativity
  
 `RANGE` matters:
 - Characters do different attacks depend on the range and the angle between them and the enemies.
@@ -158,7 +174,9 @@ Most combos are just:
 - You're always outnumbered by the cult, try to sneak through, disable alarms early.
 
 `CHARISMA` matters:
-- You can clear missions by picking the right dialogue instead of fighting.
+- You can clear certain missions by picking the right dialogue instead of fighting.
+
+`INVESTIGATION` matters: gathering information about cult leaders can help you prepare for them.
 
   
 
