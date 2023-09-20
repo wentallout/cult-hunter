@@ -133,7 +133,7 @@ One character can have multiple fighting style.
 
 ## Controls
 
-Cult Hunter is designed for PC. I want a simplified, more accessible combat system. No more training to get a long combo.
+Cult Hunter is designed for PC. I want a simplified, more accessible combat system. No more training to get a long combo. I want players to
 
 - Move: `W,A,S,D`
 - Jump: `SPACE`
@@ -156,7 +156,9 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - Pick/throw/kick: `G`, if your character can't pick something up, like a heavy table, they'll launch it into nearest enemies. If there's nothing to pickup, they'll kick enemies.
 - Skills: `1`,`2`,`3`,`4`
 - Rage: `Q`+`E` (still working on this)
-  
+
+ ### Unique Combat Mechanics
+ 
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a long combo, you can press `Q` or `E` to launch a devasting explosive attack. Some characters have AoE `ENDER`, some have single target `ENDER`, some even have unique `ENDER` mechanics (stacks, debuffs)
 - `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
 
