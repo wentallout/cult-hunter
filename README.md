@@ -115,21 +115,32 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 
 ## Basic Gameplay
 
+- Cult Hunter is a hack n slash game with rogue-like features (`CHARM`)
 - Players will travel through a big tall building (for example like: https://en.wikipedia.org/wiki/Church_of_Scientology), clearing all enemies to get to the next floor. After clearing a floor they will receive a buff (charm) to get stronger.
-- Some enemies are tanky and may require long combos.
+- Some enemies are tanky and may require long combos. They will enter a `STAGGER` stage and you have to land a `FINISHER` on them
 - Roguelike: players receive temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will help players survive the brutal difficulty.
 - Loot: enemies will drop weapons that you can pickup and enhance/modify with runes
 - Progression: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
 
+ ### Unique Combat Mechanics
+ 
+- `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a long combo, you can press `Q` or `E` to launch a devasting explosive attack. Some characters have AoE `ENDER`, some have single target `ENDER`, some even have unique `ENDER` mechanics (stacks, debuffs)
+- `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
+
+Most combos are just:
+- `LEFT MOUSE` x2, x3, x4, x5 then end with `Q` or `E` 
+
 ## Power System
 
-- Forbidden Magic: people with natural magic are already extinct. So most magic in the game world comes from people making contract with interdimensional entities. You usually have to offer something to get a contract.
+- `FORBIDDEN MAGIC`: people with natural magic are already extinct. So most magic in the game world comes from people making contracts with interdimensional entities. You usually have to offer something precious.
 - `CURSED TATTOO`: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
 - `AURA`: strong characters emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
 
 ## Style system
 
-One character can have multiple fighting style.
+One character can have 2 fighting styles that they can switch to.
+
+For example: you can have one mode for crowd control and one mode for bossing.
 
 ## Controls
 
@@ -153,17 +164,13 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - Launcher: `SCROLL WHEEL UP`, launch enemies into the air
 - Finsher: tap `SCROLL WHEEL` to do a fancy animation and execute an enemy
 - Swap weapons: `TAB`
+- Change style: `F`
 - Pick/throw/kick: `G`, if your character can't pick something up, like a heavy table, they'll launch it into nearest enemies. If there's nothing to pickup, they'll kick enemies.
 - Skills: `1`,`2`,`3`,`4`
 - Rage: `Q`+`E` (still working on this)
 
- ### Unique Combat Mechanics
- 
-- `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a long combo, you can press `Q` or `E` to launch a devasting explosive attack. Some characters have AoE `ENDER`, some have single target `ENDER`, some even have unique `ENDER` mechanics (stacks, debuffs)
-- `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
-
-Most combos are just:
-- `LEFT MOUSE` x2, x3, x4, x5 then end with `Q` or `E`
+### Other
+- Taunt: `T`
 
 ## Gives players more choice, expand their creativity
  
