@@ -151,8 +151,8 @@ Most combos are just:
  
 `RANGE` matters:
 - Characters do different attacks depend on the range and the angle between them and the enemies.
-- `REACH`: If your enemies are far away, your characters will automatically do long range attack to try to reach them 
-- `AIMING`: If you aim at someone's legs, your characters will try to chop their legs.
+- `REACHING`: If your enemies are far away, your characters will automatically do long range attack to try to reach them
+- `AIMING`: you do different attacks based on the body part you aim. If you aim at someone's legs, your characters will try to chop their legs.
 
 `STEALTH` matters:
 - You're always outnumbered by the cult, try to sneak through, disable alarms early.
