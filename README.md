@@ -39,7 +39,7 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 - Loot: enemies will drop weapons that you can pickup and enhance/modify with runes
 - Progression: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
 
-## Locations
+## Settings
 
 | name          	| description                                                                                                                                                                                                     	                    |
 |---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
