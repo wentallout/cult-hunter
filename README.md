@@ -30,8 +30,10 @@ In the end, the fate of the city rests on the shoulders of Nameless and his alli
 
 ## Basic Gameplay
 
-- Cult Hunter is a hack n slash game with rogue-like features (`CHARM`)
-- Players will travel through a big tall building (for example like: https://en.wikipedia.org/wiki/Church_of_Scientology), clearing all enemies to get to the next floor. After clearing a floor they will receive a buff (charm) to get stronger.
+- Cult Hunter is a stylish, hack n slash game with rogue-like features
+- There are 2 main activities: `INVESTIGATE` and `RAID`
+- In `INVESTIGATE`: Players will go through the city, looking for clues, talking to people, finding information about hidden cults.
+- In `RAID`: Players will go into a big tall building (for example like: https://en.wikipedia.org/wiki/Church_of_Scientology), clearing all enemies to get to the next floor. After clearing a floor they will receive a buff (charm) to get stronger.
 - Some enemies are tanky and may require long combos. They will enter a `STAGGER` stage and you have to land a `FINISHER` on them
 - Roguelike: players receive temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will help players survive the brutal difficulty.
 - Loot: enemies will drop weapons that you can pickup and enhance/modify with runes
@@ -188,9 +190,3 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - You can clear certain missions by picking the right dialogue instead of fighting.
 
 `INVESTIGATION` matters: gathering information about cult leaders can help you prepare for them.
-
-  
-
-
-
-
