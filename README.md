@@ -15,7 +15,7 @@ git clone https://github.com/wentallout/cult-hunter.git
 Open `project.godot` with your Godot application
 
 ## Inspiration
-Japanese doomsday cult: https://en.wikipedia.org/wiki/Aum_Shinrikyo
+Japanese doomsday cult - Aum Shinrikyo: https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
 ## Plot (WIP)
 At the start of the game, Nameless, our ordinary sushi chef, sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the real cult. His search leads him to Edom City where he declares war on all these evil cults.
@@ -93,8 +93,7 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
   
 - Corrupt Government Officials and Corporate: controlled by the cult, mostly do white collar crime
 - Corrupt Cops: follow orders from the Government Officials, they take advantage of small businesses in the city to extort money.
-- The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes (similar to Aum Shinrikyo)
-
+- The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes
 
 
 ## Equipments (mostly weapons since armors are just fashion)
