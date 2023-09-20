@@ -146,7 +146,7 @@ For example: you can have one mode for crowd control and one mode for bossing.
 
 ## Controls
 
-Cult Hunter is designed for PC. I want a simplified, more accessible combat system. No more training to get a long combo. I want players to
+Cult Hunter is designed for PC. I want a simplified, more accessible combat system. No more training to get a long combo. I want players to focus on precise movements instead of remembering inputs.
 
 - Move: `W,A,S,D`
 - Jump: `SPACE`
