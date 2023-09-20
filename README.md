@@ -24,17 +24,19 @@ Kimberly and Jigen are well known hitmen, are hired by the cult to kill Nameless
 
 As the group continues to take down the cult's various groups, they eventually come face-to-face with the Cult Leader, the mastermind behind everything. With his charismatic leadership, the Cult Leader has managed to gain the support of the city's elite, making him a formidable, untouchable opponent.
 
-Nameless and his allies must use all of their skills and resources to defeat the Cult Leader and his top subordinates, all while uncovering the truth about the cult's sinister plans for the city. As they fight their way through the Cult's hideouts, the group discovers that Nameless has a dark secret: he has been unknowingly hosting an eldritch god inside his mind, giving him immense power but also putting him at risk of losing control. The cult is aware that "entity" is a mythical god-eating monster and want to capture Nameless to kill it.
-
-In the end, the fate of the city rests on the shoulders of Nameless and his allies as they face off against the Cult Leader and his minions in a final, epic battle. With their determination, wits and skills, they must stop the Cult's plan before it's too late and bring justice for those who have suffered.
+Nameless and his allies must use all of their skills and resources to defeat the 12 Apostles, all while uncovering the truth about the cult's sinister plans for the city. The fate of the city rests on the shoulders of Nameless and his allies as they face off against the Cult Leader and his minions in a final, epic battle. With their determination, wits and skills, they must stop the Cult's sinister plan before it's too late and bring justice for those who have suffered.
 
 ## Basic Gameplay
 
 - Cult Hunter is a stylish, hack n slash game with rogue-like features
-- There are 2 main activities: `INVESTIGATE` and `RAID`
-- In `INVESTIGATE`: Players will go through the city, looking for clues, talking to people, finding information about hidden cults.
-- In `RAID`: Players will go into a big building (for example like: https://en.wikipedia.org/wiki/Church_of_Scientology), clearing all enemies to get to the next floor. After clearing a floor they will receive a buff (charm) to get stronger.
-- Some enemies are tanky and may require long combos. They will enter a `STAGGER` stage and you have to land a `FINISHER` on them
+- There are 2 main activities: `INVESTIGATE` and `RAID`:
+- In `INVESTIGATE`:
+	- Players will go through the city, looking for clues, talking to people, finding information about hidden cults.
+- In `RAID`:
+	- After player pieces together clues, they will know where a cult building is located. 	
+	- Players will go into that building, clearing all enemies to get to the next floor.
+	- After clearing a floor they will receive a buff (charm) to get stronger.
+- Some enemies are tanky and may require long combos. When they goes down to 0 HP they will enter a `STAGGER` state and you have to land a `FINISHER` on them to kill them.
 - Roguelike: players receive temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will help players survive the brutal difficulty.
 - Loot: enemies will drop weapons that you can pickup and enhance/modify with runes
 - Progression: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
