@@ -139,13 +139,14 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - Jump: `SPACE`
 - Crouch: `CTRL`
 
+### Dash-related
 - Dash: `SHIFT`, dash into an obstacle will make characters "parkour" through it
 - Dash Attack: `SHIFT` then `LEFT MOUSE`
 - Dash Jump: `SHIFT` then `SPACE`
 - Dash Slide: `SHIFT` then `CTRL`
 - Sprint: hold `SHIFT` to sprint, you can do `WALL RUNNING` if you run and touch a wall.
 
-
+### Attack-related
 - View: `MOUSE`
 - Block: `RIGHT MOUSE`
 - Attack : `LEFT MOUSE`
