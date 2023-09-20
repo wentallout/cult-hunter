@@ -28,6 +28,15 @@ Nameless and his allies must use all of their skills and resources to defeat the
 
 In the end, the fate of the city rests on the shoulders of Nameless and his allies as they face off against the Cult Leader and his minions in a final, epic battle. With their determination, wits and skills, they must stop the Cult's plan before it's too late and bring justice for those who have suffered.
 
+## Basic Gameplay
+
+- Cult Hunter is a hack n slash game with rogue-like features (`CHARM`)
+- Players will travel through a big tall building (for example like: https://en.wikipedia.org/wiki/Church_of_Scientology), clearing all enemies to get to the next floor. After clearing a floor they will receive a buff (charm) to get stronger.
+- Some enemies are tanky and may require long combos. They will enter a `STAGGER` stage and you have to land a `FINISHER` on them
+- Roguelike: players receive temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will help players survive the brutal difficulty.
+- Loot: enemies will drop weapons that you can pickup and enhance/modify with runes
+- Progression: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
+
 ## Locations
 
 | name          	| description                                                                                                                                                                                                     	                    |
@@ -114,15 +123,6 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 - `HP` bar: health bar, if it reaches 0 your run ends and you have to try the whole thing again (this game is rogue-like)
 - `DODGE` bar (to replace SHIELD): character will automatically dodge when this bar isn't 0.
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
-
-## Basic Gameplay
-
-- Cult Hunter is a hack n slash game with rogue-like features (`CHARM`)
-- Players will travel through a big tall building (for example like: https://en.wikipedia.org/wiki/Church_of_Scientology), clearing all enemies to get to the next floor. After clearing a floor they will receive a buff (charm) to get stronger.
-- Some enemies are tanky and may require long combos. They will enter a `STAGGER` stage and you have to land a `FINISHER` on them
-- Roguelike: players receive temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will help players survive the brutal difficulty.
-- Loot: enemies will drop weapons that you can pickup and enhance/modify with runes
-- Progression: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
 
  ### Unique Combat Mechanics
  
