@@ -96,16 +96,18 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 - The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes
 
 
-## Equipments (mostly weapons since armors are just fashion)
+## Equipments
 
+- Equipments in the game are just weapons since clothes are meant for fashion
 - Normal weapon: guns, blades from the modern world
 - Set weapon: the most powerful weapons in the game comes from one of the many sets. Each set is crafted made by one family.
 	+ Demon Slayer Set: gives user new unique skills.
 	+ Paladin Set: bless its owner with big stats and shield.
-	+ ... :usually weak but apply crazy debuff that stacks.
-	+ ...
-	+ ...
+	+ Insect Set :usually weak but apply crazy debuff that stacks.
+	+ ...etc
+	
 - Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate, there is a gruesome, disturbing origin behind these weapons.
+- Accessories: Ring to modify attacks, Necklace to modify defense
 
 ## Character Stats
 
@@ -127,8 +129,8 @@ There were 12 cults in total (1 main, 11 branches). One of them got wiped out by
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a long combo, you can press `Q` or `E` to launch a devasting explosive attack. Some characters have AoE `ENDER`, some have single target `ENDER`, some even have unique `ENDER` mechanics (stacks, debuffs)
 - `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
 
-Most combos are just:
-- `LEFT MOUSE` x2, x3, x4, x5 then end with `Q` or `E` 
+Most complete combos are just:
+- `LEFT MOUSE` x2, x3, x4, x5 then end the combo with an `ENDER` using `Q` or `E` 
 
 ## Power System
 
