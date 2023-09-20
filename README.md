@@ -60,12 +60,12 @@ I try to keep a balance number of male and female.
 | Kimberly 	| female 	| 2nd protag, specialized in making magical bullets. She's a dual-wielding gunslinger, can sees through objects and shoot hiding enemies.                                        	|
 | Jigen    	| male   	| 3rd protag, weapon collector, cool glasses dude who use katana, his slashes create waves and can recharge his waves by putting his sword back inside his katana sheath, he can also teleport to his thrown weapons     	|
 
-### Eleanor Club (friendly allies)
-The Eleanor racing club provides assassins with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
+### Skyline Club (friendly allies)
+The Skyline racing club provides assassins with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
 
 | name    | gender | description                                                                  |
 |---------|--------|------------------------------------------------------------------------------|
-| Tak  | Male   | hacker                                                          			|
+| Tak     | Male   | hacker                                                          	          |
 | Harper  | Female | car mechanic                                                                 |
 | Eleanor | Female | battle racer, she modified her cars to have all sorts of weapons to fight the cult. |
 
@@ -89,7 +89,7 @@ The cults are hidden in the city, they lure innocent people in and do horrible t
 
 There were 12 cults in total (1 main, 11 branches). One of them got wiped out by Nameless in the tutorial, this kickstarted the war.
 - The Cult Leaders (Twelve Apostles): immortal, charismatic and powerful. They have crazy reality-bending powers. They manipulate and abuse people in the city for money/enjoyment. No one in the city knows who/where they are and what they look like so it forces the players to find clues to track them down.
-	+ No.1: Elara (she thinks she predicts natural disaster but is actually causing it)
+	+ No.1: Elara (she thinks she predicts natural disaster but she is actually causing it)
 	+ No.2: Malachi (controls blood, granting him enhanced strength and healing
 	+ No.3: Luna (turn invisible and creates illusions, bright light nullifies her)
 	+ No.4: Samson (he creates a mini Sun and burn everything in its path)
@@ -136,11 +136,11 @@ Most complete combos are just:
 
 ## Power System
 
-- `FORBIDDEN MAGIC`: people with natural magic are already extinct. So most magic in the game world comes from people making contracts with interdimensional entities. You usually have to offer something precious.
+- `FORBIDDEN MAGIC`: people with natural magic are already extinct. So most super powers in the game world comes from people making contracts with interdimensional entities. You usually have to offer something precious.
 - `CURSED TATTOO`: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
 - `AURA`: strong characters emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
 
-## Style system
+## Style Switching
 
 One character can have 2 fighting styles that they can switch to.
 
