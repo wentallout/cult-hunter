@@ -62,7 +62,7 @@ I try to keep a balance number of male and female.
 | Kimberly 	| female 	| 2nd protag, specialized in making magical bullets. She's a dual-wielding gunslinger, can sees through objects and shoot hiding enemies.                                        	|
 | Jigen    	| male   	| 3rd protag, weapon collector, cool glasses dude who use katana, his slashes create waves and can recharge his waves by putting his sword back inside his katana sheath, he can also teleport to his thrown weapons     	|
 
-### Skyline Club (friendly allies)
+### Skyline Club (friendly)
 The Skyline racing club provides assassins with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
 
 | name    | gender | description                                                                  |
@@ -80,10 +80,15 @@ It's simple, you give them money, they kill for you, they don't pick sides. Zeni
 | Raven (Accountant) 	| female 	| sniper, cold and ruthless, love cats.                                                                                                                  	|
 | Ava (Spy)            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder, secretly loves Nameless and give him hints to help him. 	|
 | Naka (Doctor)         | male          | He will do his best to save your life as long as you're a member of the hotel.                                                                                                |
-| Will (Hotel Manager)  | female        | a retired hitmen, she's very polite to everyone but don't fuck around in her hotel, rules are there for a reason.                                        |
+| Will (Hotel Manager)  | female        | a retired hitmen, she's very polite to everyone but don't mess around in her hotel, rules are there for a reason.                                        |
 
 ### Shadow Dancer Clan (neutral)
-An all female assassin clan. They're impressed after seeing Nameless fights and want him to join the clan. (Nameless's gender is kinda ambiguous due to not being 100% human)
+
+An all female assassin clan. Lore is work-in-progress.
+
+### The Monastery (friendly/evil)
+
+They represent the only nice religion in the world of Cult Hunter. They help everyone but might get corrupted and turn evil if you don't play your cards right.
 
 ### The Cult (Main Antagonists)
 
