@@ -25,7 +25,8 @@ Aum Shinrikyo was a Japanese doomsday cult led by Shoko Asahara. In the 1990s, t
 
 ## Plot (work-in-progress)
 
-![image](https://github.com/wentallout/cult-hunter/assets/76118931/7948aa8e-9146-4146-a335-ae956ad09ae8)
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/8a380f26-e737-460e-ab0b-d6f12b5e104f)
+
 
 In the bustling city of Havenbrook, a seemingly ordinary sushi chef known as Nameless embarks on a relentless mission of vengeance. Years ago, his beloved master fell victim to a shadowy cult's sinister machinations. Armed with remarkable knife skills honed over the years, Nameless sets out to dismantle the very organization that took everything from him.
 
