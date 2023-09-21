@@ -52,7 +52,7 @@ Nameless and his allies must use all of their skills and resources to defeat the
 
 ## Problems players have with other hack and slash games
 
-### Problem 1: Combos are too hard to input, too long to remember
+### ⚠Problem 1: Combos are too hard to input, too long to remember
 
 ![donguri-devil-may-cry-v (1)](https://github.com/wentallout/cult-hunter/assets/76118931/a873ef9e-e62d-4213-aa5c-ff8bdf4b020c)
 
@@ -68,7 +68,7 @@ These **holding inputs** will really add up and mess with your head when you hav
 => **SOLUTION**: just make sure all inputs are `TAP`, tap 2 times, tap 3 times, tap 4 times, don't hold anything, don't combine anything. Gamers have limited memory.
 
 
-### Problem 2: The Paradox of Choice
+### ⚠Problem 2: The Paradox of Choice
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/04d51a5a-c7d1-485e-aaf9-667b3a09b68a)
 
@@ -78,7 +78,7 @@ These **holding inputs** will really add up and mess with your head when you hav
 => **SOLUTION**: Give them 2 clear buttons for single target and AoE.
 
 
-### Problem 3: Character Balance
+### ⚠Problem 3: Character Balance
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/9d0647f1-b06d-404e-8046-9af5923f2fae)
 
@@ -87,7 +87,7 @@ When your games have multiple characters, you're gonna run into the TIER LIST pr
 => **SOLUTION**: Give every characters almost the same toolkits: Evasive attacks, AoE attacks, single target attacks. When one character does way more damage than the others, you can change their passive, make their combo string longer, requires better timing, etc.
 
 
-## My Simplified Combat Mechanics
+## ⭐My Simplified Combat Mechanics
 
 Here are the controls, all of them are just you tapping so no more headache.
 
@@ -141,7 +141,7 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
 
 
-## Controls
+## ⌨Controls
 
 Cult Hunter is designed for PC. I want a simplified, more accessible combat system. No more training to get a long combo. I want players to focus on precise movements instead of remembering inputs.
 
