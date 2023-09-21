@@ -167,12 +167,14 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - You can equip different styles in a menu.
 - You can also switch style mid-combo
 
-## Gives players more choice, expand their creativity
+## Let players use everything they have
  
 `RANGE` matters:
 - Characters do different attacks depend on the range and the angle between them and the enemies.
 - `REACHING`: If your enemies are far away, your characters will automatically do long range attack to try to reach them
 - `AIMING`: you do different attacks based on the body part you aim. If you aim at someone's legs, your characters will try to chop their legs.
+
+`ENVIRONMENT` matters: players can throw bottles into enemies, shoot oil barrels, kick tables, kick enemies down a cliff, etc
 
 `STEALTH` matters:
 - You're always outnumbered by the cult, try to sneak through, disable alarms early.
