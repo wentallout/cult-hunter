@@ -158,6 +158,17 @@ Here are the controls, all of them are just you tapping so no more headache.
 What happens when players got low health? Do they restart? Let me Introduce the `FINISHER`
 - `FINISHER`: some enemies don't die but enter a `STAGGER STATE` that allows you do a special finishing move on them to replenish your HP. Make sure when we design we always add a few strong enemies that can be `STAGGER` to help players survive.
 
+## How to design better boss experience?
+
+### Tip 1: Telegraphing the Attack
+
+Boss won't attack immediately, they will have wind up animations or show red range on the ground to show an attack is coming and you need to move away.
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/05059032-a334-4a99-99e8-6f06012d5145)
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/ad9cf80a-e5ea-4657-b141-45e1209f3070)
+
+
 ## Locations
 
 https://github.com/wentallout/cult-hunter/wiki/Locations       
@@ -194,7 +205,7 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 
 ## ⌨Controls
 
-Cult Hunter is designed for PC. I want a simplified, more accessible combat system. No more training to get a long combo. I want players to focus on precise movements instead of remembering inputs.
+Cult Hunter is designed for PC. I want players to focus on precise movements to dodge incoming complicated enemies attacks.
 
 ### Basic Movement
 
