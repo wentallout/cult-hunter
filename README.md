@@ -40,23 +40,25 @@ In the bustling city of Havenbrook, a seemingly ordinary sushi chef known as Nam
 
 However, after a fierce battle, Nameless discovers that the cult he's been battling is merely a subsidiary of a more insidious and elusive cult. His unyielding pursuit of justice takes him to Havenbrook City, where he boldly declares war on the enigmatic cult, capturing the attention of all who reside in its shadow.
 
-In a cinematic turn of events, we find ourselves in Zenith Hotel, a discreet sanctuary for assassins, where two renowned hitmen, Kimberly and Jigen, received the cult's latest 20 Million $ contract: to eliminate Nameless. But their employer, Eli, the enigmatic owner of Zenith Hotel, has different plans. He commands them to deliver Nameless directly to him.
+Meanwhile, we find ourselves in Zenith Hotel, a discreet sanctuary for assassins, where two renowned hitmen, Kimberly and Jigen, received the cult's latest 20 Million $ contract: to eliminate Nameless. But their employer, Eli, the enigmatic owner of Zenith Hotel, has different plans. He commands them to deliver Nameless directly to him.
 
 Within the confines of Zenith Hotel, Nameless is initiated into the intricate and treacherous rules of the criminal underworld. Eli unveils a shocking revelation: the cult's pervasive influence, clandestinely manipulating every facet of the city—how its people live, what they learn, and even the news they consume. While Zenith Hotel may have maintained an ambiguous stance, the cult's growing reach has tipped the scales, necessitating a drastic response.
 
 Eli confides in Nameless, revealing the hotel's newfound purpose: to unite the nation's most skilled assassins and obliterate the malevolent cultists. He places his faith in Nameless's formidable abilities, believing that they finally possess the strength needed to confront the cult's menace head-on.
 
-As Nameless and his resolute allies continue their relentless campaign against the cult's numerous factions, they eventually cross paths with the Apostles—a formidable cadre of twelve charismatic leaders who hold the reins of power within the cult. These enigmatic individuals have garnered the allegiance of the city's elite, rendering them formidable adversaries. Operating in the shadows, the Apostles remain elusive, thwarting all attempts to track them down.
+As Nameless and his allies continue their relentless campaign against the cult's numerous factions, they eventually cross paths with the Apostles — a formidable cadre of twelve charismatic leaders who hold the reins of power within the cult. These enigmatic individuals have garnered the allegiance of the city's elite, rendering them formidable adversaries. Operating in the shadows, the Apostles remain elusive, thwarting all attempts to track them down.
 
-Nameless and his allies must pool their skills and resources, striving to vanquish these twelve formidable adversaries. All the while, they unravel the cult's dark agenda for the city, one that threatens to plunge it into eternal darkness. The destiny of Havenbrook hinges on the shoulders of Nameless and his steadfast companions as they confront the Cult Leaders and their loyal followers in epic battles. Armed with unwavering determination, cunning intellect, and unmatched expertise, they must thwart the Cult's malevolent scheme before it engulfs the city, ensuring justice prevails for all who have suffered.
+Nameless and his allies must use their skills and resources to vanquish these twelve formidable adversaries. All the while, they unravel the cult's dark agenda for the city, one that threatens to plunge it into eternal darkness. The destiny of Havenbrook hinges on the shoulders of Nameless and his steadfast companions as they confront the Cult Leaders and their loyal followers in epic battles. Armed with unwavering determination, cunning intellect, and unmatched expertise, they must thwart the Cult's scheme before it engulfs the city, ensuring justice prevails for all who have suffered.
 
 ## Basic Gameplay
 
 - Cult Hunter is a stylish, action-adventure, hack and slash game with rogue-like features
+
+- **Hack and Slash**: Players freely express themselves through brutal combat, use guns and katana to do beautiful combos, dashing to dodge.
 - **Rogue-like**: If players die during a run, they have to start all over again . When they clear a floor, players receive random temporary charms that boost their survivability. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
 - **Loot**: enemies will drop weapons that you can pickup and enhance/modify with runes
 - **Progression**: Players gain new weapons, skills and money when fighting. If player dies, they only lose their `CHARM`.
-- **Increasing Difficulty** Leveling is an outdated system in my opinion, when players progress through the story and get more powerful gear, I will scale the enemies to make it fun for them.
+- **Increasing Difficulty** Leveling is an outdated system in my opinion, when players progress through the story and get more powerful gear, I will scale the enemies to make it more fun for them.
 
 - There are 2 main activities: `INVESTIGATE` and `RAID`:
 - In `INVESTIGATE`:
@@ -65,7 +67,6 @@ Nameless and his allies must pool their skills and resources, striving to vanqui
 	- After player pieces together clues, they will know where a cult building is located. 	
 	- Players will go into that building, clearing all enemies to get to the next floor.
 	- After clearing a floor they will receive a buff (charm) to get stronger.
-- Some enemies are tanky and may require long combos. When they goes down to 0 HP they will enter a `STAGGER` state and you have to land a `FINISHER` on them to kill them.
 
 ## Problems players have with other hack and slash games
 
