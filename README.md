@@ -40,7 +40,7 @@ In the bustling city of Havenbrook, a seemingly ordinary sushi chef known as Nam
 
 However, after a fierce battle, Nameless discovers that the cult he's been battling is merely a subsidiary of a more insidious and elusive cult. His unyielding pursuit of justice takes him to Havenbrook City, where he boldly declares war on the enigmatic cult, capturing the attention of all who reside in its shadow.
 
-In a cinematic turn of events, we find ourselves in Zenith Hotel, a discreet sanctuary for assassins, where two renowned hitmen, Kimberly and Jigen, have been entrusted with the cult's latest contract: to eliminate Nameless. But their employer, Eli, the enigmatic owner of Zenith Hotel, has different plans. He commands them to deliver Nameless directly to him.
+In a cinematic turn of events, we find ourselves in Zenith Hotel, a discreet sanctuary for assassins, where two renowned hitmen, Kimberly and Jigen, received the cult's latest 20 Million $ contract: to eliminate Nameless. But their employer, Eli, the enigmatic owner of Zenith Hotel, has different plans. He commands them to deliver Nameless directly to him.
 
 Within the confines of Zenith Hotel, Nameless is initiated into the intricate and treacherous rules of the criminal underworld. Eli unveils a shocking revelation: the cult's pervasive influence, clandestinely manipulating every facet of the city—how its people live, what they learn, and even the news they consume. While Zenith Hotel may have maintained an ambiguous stance, the cult's growing reach has tipped the scales, necessitating a drastic response.
 
