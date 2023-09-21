@@ -18,11 +18,11 @@ Open `project.godot` with your Godot application
 Japanese doomsday cult - Aum Shinrikyo: https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
 ## Plot (WIP)
-At the start of the game, Nameless, our ordinary sushi chef, sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the real cult. His search leads him to city where he declares war on all these evil cults.
+At the start of the game, Nameless, our ordinary sushi chef, sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the real cult. His search leads him to city where he declares war on all these evil cults. `TUTORIAL ENDS`
 
-Kimberly and Jigen are well known hitmen, are hired by the cult to kill Nameless but they chose to befriend him instead. Nameless got invited to the Zenith Hotel and he learned the rules of the underworld. As they dig deeper, they discover that the cult controls everything in the city. The Lawmaker, the secret leader of Zenith Hotel, he pretends to work for the cult but secretly helps the protagonists.
+`CUTSCENE` Kimberly and Jigen are well known hitmen in the city. They accepted the cult's bounty to eliminate Nameless but they are requested by the boss - Eli (owner of Zenith Hotel) to bring Nameless to the hotel. Nameless got invited to the Zenith Hotel and he learned the rules of the underworld. As they dig deeper, they discover that the cult secretly controls everything in the city.
 
-As the group continues to take down the cult's various groups, they eventually come face-to-face with the Cult Leader, the mastermind behind everything. With his charismatic leadership, the Cult Leader has managed to gain the support of the city's elite, making him a formidable, untouchable opponent.
+As the group continues to take down the cult's various groups, they eventually come face-to-face with the Cult Leader, the mastermind behind everything. With his charismatic leadership, the Cult Leader has managed to gain the support of the city's elite, making him a formidable opponent.
 
 Nameless and his allies must use all of their skills and resources to defeat the 12 Apostles, all while uncovering the truth about the cult's sinister plans for the city. The fate of the city rests on the shoulders of Nameless and his allies as they face off against the Cult Leader and his minions in a final, epic battle. With their determination, wits and skills, they must stop the Cult's sinister plan before it's too late and bring justice for those who have suffered.
 
@@ -37,7 +37,7 @@ Nameless and his allies must use all of their skills and resources to defeat the
 	- Players will go into that building, clearing all enemies to get to the next floor.
 	- After clearing a floor they will receive a buff (charm) to get stronger.
 - Some enemies are tanky and may require long combos. When they goes down to 0 HP they will enter a `STAGGER` state and you have to land a `FINISHER` on them to kill them.
--** Rogue-like**: players receive random temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
+- **Rogue-like**: players receive random temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
 - **Loot**: enemies will drop weapons that you can pickup and enhance/modify with runes
 - **Progression**: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
 
@@ -53,7 +53,6 @@ Nameless and his allies must use all of their skills and resources to defeat the
 ## Characters
 
 https://github.com/wentallout/cult-hunter/wiki/Characters
-
 
 ## Equipments
 
@@ -82,7 +81,6 @@ Most complete combos are just:
 - `LEFT MOUSE` x2, x3, x4, x5 then end the combo with an `ENDER` using `Q` or `E` 
 - `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
 
-
 ## Controls
 
 Cult Hunter is designed for PC. I want a simplified, more accessible combat system. No more training to get a long combo. I want players to focus on precise movements instead of remembering inputs.
@@ -92,6 +90,7 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - Crouch: `CTRL`
 
 ### Dash-related
+
 - Dash: `SHIFT`, dash into an obstacle will make characters "parkour" through it
 - Dash Attack: `SHIFT` then `LEFT MOUSE`
 - Dash Jump: `SHIFT` then `SPACE`
@@ -99,6 +98,7 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - Sprint: hold `SHIFT` to sprint, you can do `WALL RUNNING` if you run and touch a wall.
 
 ### Attack-related
+
 - View: `MOUSE`
 - Block: `RIGHT MOUSE`
 - Attack : `LEFT MOUSE`
@@ -111,6 +111,7 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - Rage: `Q`+`E` (still working on this)
 
 ### Other
+
 - Taunt: `T`
 
 ## Style Switching (`F`)
@@ -136,8 +137,8 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 
 `INVESTIGATION` matters: gathering information about cult leaders can help you prepare for them.
 
-## Power System
+## Skill System
 
-- `FORBIDDEN MAGIC`: people with natural magic are already extinct. So most super powers in the game world comes from people making contracts with interdimensional entities. You usually have to offer something precious.
-- `CURSED TATTOO`: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
+- `FORBIDDEN MAGIC`: people with natural magic are already extinct. Most super powers in the game world comes from people making contracts with interdimensional entitie (offering something you have for power).
+- `CURSED TATTOO`: characters have these tattoos that modify their stats (ex: Ava has the `Equalizer` tattoo that matches her stat with the strongest person in her POV)
 - `AURA`: strong characters emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
