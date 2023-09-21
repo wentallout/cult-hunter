@@ -1,5 +1,6 @@
 # Cult Hunter
-Khoa's work-in-progress game.
+
+Nguyen Dang Khoa's work-in-progress game concept. Need more game coding experience.
 
 ## Development
 
