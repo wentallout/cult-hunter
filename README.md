@@ -54,19 +54,25 @@ Nameless and his allies must use their skills and resources to vanquish these tw
 
 - Cult Hunter is a stylish, action-adventure, hack and slash game with rogue-like features
 
-- **Hack and Slash**: Players freely express themselves through brutal combat, use guns and katana to do beautiful combos, dashing to dodge.
+- **Hack and Slash**: Players freely express themselves through brutal combat, use guns and katana to do beautiful combos, dashing to dodge enemies' attack.
 - **Rogue-like**: If players die during a run, they have to start all over again . When they clear a floor, players receive random temporary charms that boost their survivability. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
 - **Loot**: enemies will drop weapons that you can pickup and enhance/modify with runes
 - **Progression**: Players gain new weapons, skills and money when fighting. If player dies, they only lose their `CHARM`.
-- **Increasing Difficulty** Leveling is an outdated system in my opinion, when players progress through the story and get more powerful gear, I will scale the enemies to make it more fun for them.
+- **Increasing Difficulty** Leveling is an outdated system in my opinion, when players progress through the story and get more powerful gear, enemies will be scaled properly to make sure it's always engaging and fun.
 
 - There are 2 main activities: `INVESTIGATE` and `RAID`:
 - In `INVESTIGATE`:
 	- Players will go through the city, looking for clues, talking to people, finding information about hidden cults.
+   	- Players can accept side-quests while roaming.
 - In `RAID`:
-	- After player pieces together clues, they will know where a cult building is located. 	
+	- After player pieces together clues to find the location of a cult building. 	
 	- Players will go into that building, clearing all enemies to get to the next floor.
 	- After clearing a floor they will receive a buff (charm) to get stronger.
+ 	- `RAID` ends when players successfully kill the boss at the top of the building
+
+Other activities: 
+- `AMBUSH`: sometimes players will be ambushed by a group of bounty hunters or cultists. The goal is to simply beat all of them up and get out.
+
 
 ## Problems players have with other hack and slash games
 
