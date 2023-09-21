@@ -111,14 +111,15 @@ Here are the controls, all of them are just you tapping so no more headache.
 
 ### Benefits of Long and Short Combo
 
+Most combos are just:
+- `LEFT MOUSE` x2, x3, x4, x5 then end the combo with `Q` or `E`
 - If you go for Long Combo: your `ENDER` at the end will do the maximum damage, stun most enemies in front of you. However you leave yourself vulnerable during your attack animation. You should save this for when the enemy is `STUNNED` or you're not outnumbered.
 - If you go for Short Combo: your `ENDER` does less damage but you leave more slot in the 6 slot system -> You can do `FILLER` to debuff or `DASH` away for safety.
-  
-So most complete combos are just:
-- `LEFT MOUSE` x2, x3, x4, x5 then end the combo with `Q` or `E`
+
+### Finisher
 
 What happens when players got low health? Do they restart? Let me Introduce the `FINISHER`
-- `FINISHER`: enemies don't die but enter a `STAGGER STATE` that allows you do a special finishing move on them to replenish your HP.
+- `FINISHER`: some enemies don't die but enter a `STAGGER STATE` that allows you do a special finishing move on them to replenish your HP. Make sure when we design we always add a few strong enemies that can be `STAGGER` to help players survive.
 
 ## Locations
 
