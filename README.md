@@ -45,10 +45,9 @@ Nameless and his allies must pool their skills and resources, striving to vanqui
 ## Basic Gameplay
 
 - Cult Hunter is a stylish, action-adventure, hack and slash game with rogue-like features
-- **Rogue-like**: players receive random temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
+- **Rogue-like**: If players die during a run, they have to start all over again . When they clear a floor, players receive random temporary charms that boost their survivability. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
 - **Loot**: enemies will drop weapons that you can pickup and enhance/modify with runes
 - **Progression**: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
-
 
 - There are 2 main activities: `INVESTIGATE` and `RAID`:
 - In `INVESTIGATE`:
