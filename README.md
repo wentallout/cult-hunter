@@ -92,9 +92,10 @@ Here are the controls, all of them are just you tapping so no more headache.
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/a7a4d396-99a0-4c6f-9945-f53bc0fbc906)
 
-- Combos always have 6 steps. Players execute their combo by filling in these 6 slots with whatever they like, players can now easily design how they fight in their head without any memorization
+- Combos always have 6 slots/steps. Players execute their combo by filling in these 6 slots with whatever they like, players can now easily design how they fight in their head without any memorization
 
-![image](https://github.com/wentallout/cult-hunter/assets/76118931/012fc85e-d26f-4242-a200-e26374319ed3)
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/86ace323-d96b-47f6-937c-e190de539bf5)
+
 
 
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a tapping combo, you can press `Q` or `E` to launch an ending explosive attack. `Q` for AoE/Range, `E` for single-target/kill boss
