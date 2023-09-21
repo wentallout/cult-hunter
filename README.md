@@ -49,8 +49,6 @@ Nameless and his allies must use all of their skills and resources to defeat the
 
 ![donguri-devil-may-cry-v (1)](https://github.com/wentallout/cult-hunter/assets/76118931/a873ef9e-e62d-4213-aa5c-ff8bdf4b020c)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ALnxYoWR9v8/0.jpg)](http://www.youtube.com/watch?v=ALnxYoWR9v8)
-
 Humans can easily count 1,2,3,4 and tap the table using that rhythm. Now what happens when you count in your head and do 2 different things at the same time? You're adding load to your memory.
 
 This is a known problems in DMC5. Here's why:
