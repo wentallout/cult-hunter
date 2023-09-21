@@ -52,66 +52,7 @@ Nameless and his allies must use all of their skills and resources to defeat the
 
 ## Characters
 
-I try to keep a balance number of male and female.
-
-### Trinity (Main Protagonists)
-
-| name     	| gender 	| description                                                                                                                           	|
-|----------	|--------	|---------------------------------------------------------------------------------------------------------------------------------------	|
-| Nameless 	| ?   	        | mysterious main protag, sushi chef, he's may talks a lot when players want to be charismatic, he summons all sorts of weapons out of thin art, he throws knives and chop people up.	|
-| Kimberly 	| female 	| 2nd protag, specialized in making magical bullets. She's a dual-wielding gunslinger, can sees through objects and shoot hiding enemies.                                        	|
-| Jigen    	| male   	| 3rd protag, weapon collector, cool glasses dude who use katana, his slashes create waves and can recharge his waves by putting his sword back inside his katana sheath, he can also teleport to his thrown weapons     	|
-
-### Skyline Club (friendly)
-The Skyline racing club provides assassins with custom cars and gadgets. They hate the cult because one of their important member got seriously hurt by them. They are on the move constantly to both sabotage the cult and hide from them.
-
-| name    | gender | description                                                                  |
-|---------|--------|------------------------------------------------------------------------------|
-| Tak     | Male   | hacker                                                          	          |
-| Harper  | Female | car mechanic                                                                 |
-| Eleanor | Female | battle racer, she modified her cars to have all sorts of weapons to fight the cult. |
-
-### Zenith Hotel (neutral)
-It's simple, you give them money, they kill for you, they don't pick sides. Zenith Hotel is neutral sanctuary for hitmen. Hitmen are people from all background, thousands of them live in the city, they usually hangout in Zenith Hotel and enjoy all the privilege: food, safety (like in John Wick).
-
-| name           	| gender 	| description                                                                                                                                                             	|
-|----------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Eli (Lawmaker)   	| male   	| badass leader, use a cane-sword, makes all the rules for the assassins to follow, weakest but extremely intelligent, even the cults are afraid of him.                         	        |
-| Raven (Accountant) 	| female 	| sniper, cold and ruthless, love cats.                                                                                                                  	|
-| Ava (Spy)            	| female 	| a spy sent by Lawmaker to investigate the cult. She joined the cult and made her way up the ladder, secretly loves Nameless and give him hints to help him. 	|
-| Naka (Doctor)         | male          | He will do his best to save your life as long as you're a member of the hotel.                                                                                                |
-| Will (Hotel Manager)  | female        | a retired hitmen, she's very polite to everyone but don't mess around in her hotel, rules are there for a reason.                                        |
-
-### Shadow Dancer Clan (neutral)
-
-An all female assassin clan. Lore is work-in-progress.
-
-### The Monastery (friendly/evil)
-
-They represent the only nice religion in the world of Cult Hunter. They help everyone but might get corrupted and turn evil if you don't play your cards right.
-
-### The Cult (Main Antagonists)
-
-The cults are hidden in the city, they lure innocent people in and do horrible things (both violent and non-violent crime). Your main enemies in the game are cult members, the 12 Apostles and all the monsters they summon. 
-
-There were 12 cults in total (1 main, 11 branches). One of them got wiped out by Nameless in the tutorial, this kickstarted the war.
-- The Cult Leaders (Twelve Apostles): immortal, charismatic and powerful. They have crazy reality-bending powers. They manipulate and abuse people in the city for money/enjoyment. No one in the city knows who/where they are and what they look like so it forces the players to find clues to track them down.
-	+ No.1: Elara (she thinks she predicts natural disaster but she is actually causing it)
-	+ No.2: Malachi (controls blood, granting him enhanced strength and healing
-	+ No.3: Luna (turn invisible and creates illusions, bright light nullifies her)
-	+ No.4: Samson (he creates a mini Sun and burn everything in its path)
-	+ No.5: Isolde (she can accelerate the growth and mutation of plants, even creating sentient plant guardians. However, her powers are weakened in barren or polluted environments.)
-	+ No.6: Raziel (Raziel can manipulate and create gravitational fields, enabling him to levitate objects and create localized gravitational anomalies. However, overusing this power makes him susceptible to disorientation.)
-	+ No.7: Victor (he can transmute matter, turning one substance into another, but he requires a sample of the desired material, and the process is time-consuming)
-	+ No.8: Selene (she can enters and manipulate dreams)
-	+ No.9: Maxwell (can create temporary breaches to other dimensions, summoning exotic creatures and objects. However, these rifts can be unpredictable and unstable)
-	+ No.10: Ella (she plays music, the notes turn into flying blades, she dances with a sharp paper fan while attacking)
-	+ No.11: Coin (absorb and redirect physical forces)
-	+ No.12: Zeke (he's a horror painter... anything he draws come into life 😱)
-  
-- Corrupt Government Officials and Corporate: controlled by the cult, mostly do white collar crime
-- Corrupt Cops: follow orders from the Government Officials, they take advantage of small businesses in the city to extort money.
-- The Cult Members: weak minded people who got lured and controlled by the leaders to do unspeakable crimes
+https://github.com/wentallout/cult-hunter/wiki/Characters
 
 
 ## Equipments
