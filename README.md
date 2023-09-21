@@ -82,11 +82,11 @@ When your games have multiple characters, you're gonna run into the TIER LIST pr
 
 ## My Simplified Combat Mechanics
 
-Here are the controls, you only need to tap left mouse for attack then tap Q and E for Ender.
+Here are the controls, all of them are just `TAP`, no more headache. There are 6 steps/slots for a combo.
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/48091625-115e-4cea-926b-115e0bc76d38)
 
-- Players execute their combo using a 6 slot system, they fill in these 6 slots with whatever they like, players can now easily design how they fight in their head without any memorization
+- Players execute their combo by filling in these 6 slots with whatever they like, players can now easily design how they fight in their head without any memorization
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/e368d75b-788b-4203-b98a-05fa17b9d7c5)
 
