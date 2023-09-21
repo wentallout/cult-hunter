@@ -108,6 +108,11 @@ Here are the controls, all of them are just you tapping so no more headache.
 
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a tapping combo, you can press `Q` or `E` to launch an ending explosive attack. `Q` for AoE/Range, `E` for single-target/kill boss
 - `FILLER`: fillers are less-damaging attacks you add after `ENDER`, their job is to break `ARMOR`, apply `DEBUFF` to enemies or even `BUFF` yourself.
+
+### Benefits of Long and Short Combo
+
+- If you go for Long Combo: your `ENDER` at the end will do the maximum damage, stun most enemies in front of you. However you leave yourself vulnerable during your attack animation. You should save this for when the enemy is `STUNNED` or you're not outnumbered.
+- If you go for Short Combo: your `ENDER` does less damage but you leave more slot in the 6 slot system -> You can do `FILLER` to debuff or `DASH` away for safety.
   
 So most complete combos are just:
 - `LEFT MOUSE` x2, x3, x4, x5 then end the combo with `Q` or `E`
