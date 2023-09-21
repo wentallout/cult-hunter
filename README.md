@@ -37,9 +37,9 @@ Nameless and his allies must use all of their skills and resources to defeat the
 	- Players will go into that building, clearing all enemies to get to the next floor.
 	- After clearing a floor they will receive a buff (charm) to get stronger.
 - Some enemies are tanky and may require long combos. When they goes down to 0 HP they will enter a `STAGGER` state and you have to land a `FINISHER` on them to kill them.
-- Roguelike: players receive temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will help players survive the brutal difficulty.
-- Loot: enemies will drop weapons that you can pickup and enhance/modify with runes
-- Progression: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
+-** Rogue-like**: players receive random temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
+- **Loot**: enemies will drop weapons that you can pickup and enhance/modify with runes
+- **Progression**: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
 
 ## Settings
 
