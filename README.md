@@ -17,7 +17,7 @@ Open `project.godot` with your Godot application
 ## Inspiration
 Japanese doomsday cult - Aum Shinrikyo: https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
-## Plot (WIP)
+## Plot (work-in-progress)
 At the start of the game, Nameless, our ordinary sushi chef, sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the real cult. His search leads him to city where he declares war on all these evil cults. `TUTORIAL ENDS`
 
 `CUTSCENE` Kimberly and Jigen are well known hitmen in the city. They accepted the cult's bounty to eliminate Nameless but they are requested by the boss - Eli (owner of Zenith Hotel) to bring Nameless to the hotel. Nameless got invited to the Zenith Hotel and he learned the rules of the underworld. As they dig deeper, they discover that the cult secretly controls everything in the city.
@@ -28,7 +28,12 @@ Nameless and his allies must use all of their skills and resources to defeat the
 
 ## Basic Gameplay
 
-- Cult Hunter is a stylish, hack n slash game with rogue-like features
+- Cult Hunter is a stylish, action-adventure, hack and slash game with rogue-like features
+- **Rogue-like**: players receive random temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
+- **Loot**: enemies will drop weapons that you can pickup and enhance/modify with runes
+- **Progression**: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
+
+
 - There are 2 main activities: `INVESTIGATE` and `RAID`:
 - In `INVESTIGATE`:
 	- Players will go through the city, looking for clues, talking to people, finding information about hidden cults.
@@ -37,9 +42,57 @@ Nameless and his allies must use all of their skills and resources to defeat the
 	- Players will go into that building, clearing all enemies to get to the next floor.
 	- After clearing a floor they will receive a buff (charm) to get stronger.
 - Some enemies are tanky and may require long combos. When they goes down to 0 HP they will enter a `STAGGER` state and you have to land a `FINISHER` on them to kill them.
-- **Rogue-like**: players receive random temporary charms after they clear a stage/floor. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
-- **Loot**: enemies will drop weapons that you can pickup and enhance/modify with runes
-- **Progression**: If player dies, they only lose their "charms" (temporary boost items), they always keep their weapons, skills, levels,...
+
+## Problems players have with other hack and slash games
+
+### Problem 1: Combos are way too hard
+
+https://gamefaqs.gamespot.com/boards/241018-devil-may-cry-5/77472229
+
+Humans can easily count 1,2,3,4 and tap the table using that rhythm. Now what happens when you count in your head and do 2 different things at the same time? You're adding load to your memory.
+
+This is a known problems in DMC5. Here's why:
+- You have to hold too many buttons to do one simple thing. 
+EX: Stinger is a sword thrust move you can do by `HOLD SHIFT` + `W` + `LEFT MOUSE`.
+- Inputs are designed for controllers, not keyboards.
+
+These **holding inputs** will really add up and mess with your head when you have to do long combos.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3KAQJar8_w4/0.jpg)](http://www.youtube.com/watch?v=3KAQJar8_w4)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ALnxYoWR9v8/0.jpg)](http://www.youtube.com/watch?v=ALnxYoWR9v8)
+
+=> **SOLUTION**: just make sure all inputs are `TAP`, don't combine anything. Gamers have limited memory.
+
+### Problem 2: The Paradox of Choice
+
+- Giving players too many options for attacking is a HUGE PROBLEM. This might be ok for fighting games but not hack and slash games. You accidentally made players unable to play because they keep thinking about what they should do.
+- Players usually have to deal with 2 situations: multiple Minions with less health and single Boss with more health
+
+=> **SOLUTION**: Give them 2 clear buttons for single target and AoE.
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/04d51a5a-c7d1-485e-aaf9-667b3a09b68a)
+
+### Problem 3: Character Balance
+
+When your games have multiple characters, you're gonna run into the TIER LIST problem. Some characters have better attack range, speed and always perform better than others. Players are gonna underuse most of your cast and pick the S-tier.
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/9d0647f1-b06d-404e-8046-9af5923f2fae)
+
+=> **SOLUTION**: Give every characters almost the same toolkits: Evasive attacks, AoE attacks, single target attacks. When one character does way more damage than the others, you can change their passive, make their combo string longer, requires better timing, etc.
+
+
+## My Simplified Combat Mechanics
+
+- Players execute their combo using a 6 slot system, they can easily design how they fight in their head without any memorization
+ 
+- `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a tapping combo, you can press `Q` or `E` to launch an ending explosive attack. `Q` for AoE/Range, `E` for single-target/kill boss
+  
+So most complete combos are just:
+- `LEFT MOUSE` x2, x3, x4, x5 then end the combo with `Q` or `E`
+
+What happens when players got low health? Do they restart? Let me Introduce the `FINISHER`
+- `FINISHER`: enemies don't die but enter a `STAGGER STATE` that allows you do a special finishing move on them to replenish your HP.
 
 ## Settings
 
@@ -73,13 +126,7 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 - `DODGE` bar (to replace SHIELD): character will automatically dodge when this bar isn't 0.
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
 
- ### My Simplified Combat Mechanics
- 
-- `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a long combo, you can press `Q` or `E` to launch a devasting explosive attack. Some characters have AoE `ENDER`, some have single target `ENDER`, some even have unique `ENDER` mechanics (stacks, debuffs)
-  
-Most complete combos are just:
-- `LEFT MOUSE` x2, x3, x4, x5 then end the combo with an `ENDER` using `Q` or `E` 
-- `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
+
 
 ## Controls
 
