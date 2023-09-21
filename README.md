@@ -57,16 +57,16 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 
 ## Equipments
 
-- Equipments in the game are just weapons since clothes are meant for fashion
+- Equipments in the game are just weapons and accessories since **clothes are meant for fashion**. Players want to look good while they fight.
+  
 - Normal weapon: guns, blades from the modern world
-- Set weapon: the most powerful weapons in the game comes from one of the many sets. Each set is crafted made by one family.
+- Set weapon: Certain weapons in one collection are created similarly and have similar powerful effects.
 	+ Demon Slayer Set: gives user new unique skills.
 	+ Paladin Set: bless its owner with big stats and shield.
 	+ Insect Set :usually weak but apply crazy debuff that stacks.
 	+ ...etc
-	
-- Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate, there is a gruesome, disturbing origin behind these weapons.
-- Accessories: Ring to modify attacks, Necklace to modify defense
+- Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate.
+- Accessories: Rings modify attacks, Necklaces modify defense, Earrings give you a passive.
 
 ## Character Stats
 
@@ -74,25 +74,14 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 - `DODGE` bar (to replace SHIELD): character will automatically dodge when this bar isn't 0.
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
 
- ### Unique Combat Mechanics
+ ### My Simplified Combat Mechanics
  
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a long combo, you can press `Q` or `E` to launch a devasting explosive attack. Some characters have AoE `ENDER`, some have single target `ENDER`, some even have unique `ENDER` mechanics (stacks, debuffs)
-- `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
-
+  
 Most complete combos are just:
 - `LEFT MOUSE` x2, x3, x4, x5 then end the combo with an `ENDER` using `Q` or `E` 
+- `FINISHER`: certain enemies don't die until you do a special finishing move on them, complete this will replenish your HP.
 
-## Power System
-
-- `FORBIDDEN MAGIC`: people with natural magic are already extinct. So most super powers in the game world comes from people making contracts with interdimensional entities. You usually have to offer something precious.
-- `CURSED TATTOO`: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
-- `AURA`: strong characters emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
-
-## Style Switching
-
-- One character can hold 2 fighting styles that they can switch to.
-- For example: you can have one mode for crowd control and one mode for bossing.
-- You can equip your styles in the menu.
 
 ## Controls
 
@@ -124,6 +113,14 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 ### Other
 - Taunt: `T`
 
+## Style Switching (`F`)
+
+- One character can hold 2 fighting styles that they can switch to.
+- EX: you can have one mode for crowd control and one mode for bossing.
+- EX: Dual wield style and Chained weapon style
+- You can equip different styles in a menu.
+- You can also switch style mid-combo
+
 ## Gives players more choice, expand their creativity
  
 `RANGE` matters:
@@ -138,3 +135,9 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - You can clear certain missions by picking the right dialogue instead of fighting.
 
 `INVESTIGATION` matters: gathering information about cult leaders can help you prepare for them.
+
+## Power System
+
+- `FORBIDDEN MAGIC`: people with natural magic are already extinct. So most super powers in the game world comes from people making contracts with interdimensional entities. You usually have to offer something precious.
+- `CURSED TATTOO`: some characters have these tattoos that modify their stats (ex: Ava has the Equalizer tattoo that matches her stat with the strongest person in her POV)
+- `AURA`: strong characters emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
