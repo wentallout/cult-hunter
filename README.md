@@ -60,7 +60,7 @@ EX: Stinger is a sword thrust move you can do by `HOLD SHIFT` + `W` + `LEFT MOUS
 
 These **holding inputs** will really add up and mess with your head when you have to do long combos.
 
-=> **SOLUTION**: just make sure all inputs are `TAP`, don't combine anything. Gamers have limited memory.
+=> **SOLUTION**: just make sure all inputs are `TAP`, tap 2 times, tap 3 times, tap 4 times, don't hold anything, don't combine anything. Gamers have limited memory.
 
 
 ### Problem 2: The Paradox of Choice
