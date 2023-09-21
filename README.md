@@ -82,14 +82,13 @@ When your games have multiple characters, you're gonna run into the TIER LIST pr
 
 ## My Simplified Combat Mechanics
 
-Here are the controls
+Here are the controls, you only need to tap left mouse for attack then tap Q and E for Ender.
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/48091625-115e-4cea-926b-115e0bc76d38)
 
 - Players execute their combo using a 6 slot system, they fill in these 6 slots with whatever they like, players can now easily design how they fight in their head without any memorization
 
-![image](https://github.com/wentallout/cult-hunter/assets/76118931/5bf881ec-185a-4f81-9263-5b91a573d322)
-
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/e368d75b-788b-4203-b98a-05fa17b9d7c5)
 
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a tapping combo, you can press `Q` or `E` to launch an ending explosive attack. `Q` for AoE/Range, `E` for single-target/kill boss
   
