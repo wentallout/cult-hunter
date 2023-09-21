@@ -105,14 +105,9 @@ So most complete combos are just:
 What happens when players got low health? Do they restart? Let me Introduce the `FINISHER`
 - `FINISHER`: enemies don't die but enter a `STAGGER STATE` that allows you do a special finishing move on them to replenish your HP.
 
-## Settings
+## Settings/Locations
 
-| name          	| description                                                                                                                                                                                                     	                    |
-|---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Havenbrook City 	| The city which is the main location of the game. Peaceful outside but it's a very chaotic place, people live in fear, some are being scammed by sinister corporate , some are lured into these "clubs" that turns out to be doomsday cults. 	|
-| Talon Street  	| It's a hidden part of the city protected by top-tier veil charms. It's well known for its high-end weapon and clothes shop. Zenith Hotel is the main location here. |
-| Zenith Hotel    	| A safe haven for all Hitmen. Rules are strict: You cannot kill here. They have a membership card and unique currency which looks like casino chips |                  
-
+https://github.com/wentallout/cult-hunter/wiki/Settings             
 
 ## Characters
 
@@ -136,7 +131,6 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 - `HP` bar: health bar, if it reaches 0 your run ends and you have to try the whole thing again (this game is rogue-like)
 - `DODGE` bar (to replace SHIELD): character will automatically dodge when this bar isn't 0.
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
-
 
 
 ## Controls
