@@ -141,6 +141,7 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - Move: `W,A,S,D`
 - Jump: `SPACE`
 - Crouch: `CTRL`
+- Look: `MOUSE`
 
 ### Dash-related
 
@@ -152,11 +153,10 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 
 ### Attack-related
 
-- View: `MOUSE`
-- Block: `RIGHT MOUSE`
 - Attack : `LEFT MOUSE`
+- Block: `RIGHT MOUSE`
 - Launcher: `SCROLL WHEEL UP`, launch enemies into the air
-- Finsher: tap `SCROLL WHEEL` to do a fancy animation and execute an enemy
+- Finsher: `TAP SCROLL WHEEL` to do a fancy animation and execute an enemy
 - Swap weapons: `TAB`
 - Change style: `F`
 - Pick/throw/kick: `G`, if your character can't pick something up, like a heavy table, they'll launch it into nearest enemies. If there's nothing to pickup, they'll kick enemies.
