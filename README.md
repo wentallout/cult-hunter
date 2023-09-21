@@ -4,10 +4,11 @@ Nguyen Dang Khoa's work-in-progress game concept. I will use this as a guide whi
 
 ## Project MVP
 
-- [ ] Working Movement and Combat
+- [ ] Working Movement and Combat (Mouse+Keyboard)
 - [ ] One playable character
-- [ ] One Minions
+- [ ] One Minion
 - [ ] One Boss
+- [ ] One Map
 
 ## Development
 
