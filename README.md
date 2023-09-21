@@ -116,6 +116,11 @@ https://github.com/wentallout/cult-hunter/wiki/Settings
 
 https://github.com/wentallout/cult-hunter/wiki/Characters
 
+## Quests
+
+- Main quest: related to cults' activities, `INVESTIGATION` and `RAID`
+- Side quest: given by random NPC in the city. EX: find missing people, dating advice, track down perverts, stalkers, ghosts, serial killers.
+
 ## Equipments
 
 - Equipments in the game are just weapons and accessories since **clothes are meant for fashion**. Players want to look good while they fight.
