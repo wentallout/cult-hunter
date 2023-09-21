@@ -1,6 +1,6 @@
 # Cult Hunter
 
-Nguyen Dang Khoa's work-in-progress game concept. I will use this as a guide while coding it.
+Nguyen Dang Khoa's work-in-progress game concept. I will use this README and the wiki to document my design.
 
 ## Project MVP
 
