@@ -48,6 +48,9 @@ Nameless and his allies must use all of their skills and resources to defeat the
 ### Problem 1: Combos are way too hard
 
 https://gamefaqs.gamespot.com/boards/241018-devil-may-cry-5/77472229
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3KAQJar8_w4/0.jpg)](http://www.youtube.com/watch?v=3KAQJar8_w4)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ALnxYoWR9v8/0.jpg)](http://www.youtube.com/watch?v=ALnxYoWR9v8)
 
 Humans can easily count 1,2,3,4 and tap the table using that rhythm. Now what happens when you count in your head and do 2 different things at the same time? You're adding load to your memory.
 
@@ -58,26 +61,24 @@ EX: Stinger is a sword thrust move you can do by `HOLD SHIFT` + `W` + `LEFT MOUS
 
 These **holding inputs** will really add up and mess with your head when you have to do long combos.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3KAQJar8_w4/0.jpg)](http://www.youtube.com/watch?v=3KAQJar8_w4)
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ALnxYoWR9v8/0.jpg)](http://www.youtube.com/watch?v=ALnxYoWR9v8)
-
 => **SOLUTION**: just make sure all inputs are `TAP`, don't combine anything. Gamers have limited memory.
 
+
 ### Problem 2: The Paradox of Choice
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/04d51a5a-c7d1-485e-aaf9-667b3a09b68a)
 
 - Giving players too many options for attacking is a HUGE PROBLEM. This might be ok for fighting games but not hack and slash games. You accidentally made players unable to play because they keep thinking about what they should do.
 - Players usually have to deal with 2 situations: multiple Minions with less health and single Boss with more health
 
 => **SOLUTION**: Give them 2 clear buttons for single target and AoE.
 
-![image](https://github.com/wentallout/cult-hunter/assets/76118931/04d51a5a-c7d1-485e-aaf9-667b3a09b68a)
 
 ### Problem 3: Character Balance
 
-When your games have multiple characters, you're gonna run into the TIER LIST problem. Some characters have better attack range, speed and always perform better than others. Players are gonna underuse most of your cast and pick the S-tier.
-
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/9d0647f1-b06d-404e-8046-9af5923f2fae)
+
+When your games have multiple characters, you're gonna run into the TIER LIST problem. Some characters have better attack range, speed and always perform better than others. Players are gonna underuse most of your cast and pick the S-tier.
 
 => **SOLUTION**: Give every characters almost the same toolkits: Evasive attacks, AoE attacks, single target attacks. When one character does way more damage than the others, you can change their passive, make their combo string longer, requires better timing, etc.
 
