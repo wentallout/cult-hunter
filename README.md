@@ -204,8 +204,10 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 - `FORBIDDEN MAGIC`: people with natural magic are already extinct. Most super powers in the game world comes from people making contracts with interdimensional entitie (offering something you have for power).
   
 - `CURSED TATTOO`: characters have these tattoos that modify their stats (ex: Ava has the `Equalizer` tattoo that matches her stat with the strongest person in her POV)
+
   ![image](https://github.com/wentallout/cult-hunter/assets/76118931/4cd09dd3-6480-4cad-bbe3-01657721afdd)
 
 - `AURA`: characters can emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
+
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/115ccad2-a6ea-4420-b2e6-26dcab14b4ae)
 
