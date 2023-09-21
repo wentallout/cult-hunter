@@ -106,9 +106,9 @@ So most complete combos are just:
 What happens when players got low health? Do they restart? Let me Introduce the `FINISHER`
 - `FINISHER`: enemies don't die but enter a `STAGGER STATE` that allows you do a special finishing move on them to replenish your HP.
 
-## Settings/Locations
+## Locations
 
-https://github.com/wentallout/cult-hunter/wiki/Settings             
+https://github.com/wentallout/cult-hunter/wiki/Locations       
 
 ## Characters
 
@@ -121,8 +121,10 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 
 ## Equipments
 
-- Equipments in the game are just weapons and accessories since **clothes are meant for fashion**. Players want to look good while they fight.
-  
+- Stats in the game comes from `WEAPONS` and `ACCESSORIES` since **clothes are meant for fashion**. Players want to look good while they fight.
+
+  ![image](https://github.com/wentallout/cult-hunter/assets/76118931/db5c9b1e-9c56-4947-a66b-160c2dafc6c0)
+
 - Normal weapon: guns, blades from the modern world
 - Set weapon: Certain weapons in one collection are created similarly and have similar powerful effects.
 	+ Demon Slayer Set: gives user new unique skills.
@@ -135,7 +137,7 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 ## Character Status
 
 - `HEALTH` bar: if it reaches 0 your run ends and you have to try `RAID` again from floor 1.
-- `DODGE` bar (to replace SHIELD): character will automatically dodge when this bar isn't 0.
+- `DODGE` bar: character will automatically dodge incoming attack when this bar isn't 0.
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
 
 ## ⌨Controls
