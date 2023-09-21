@@ -45,10 +45,9 @@ Nameless and his allies must use all of their skills and resources to defeat the
 
 ## Problems players have with other hack and slash games
 
-### Problem 1: Combos are way too hard
+### Problem 1: Combos are too hard to input, too long to remember
 
-https://gamefaqs.gamespot.com/boards/241018-devil-may-cry-5/77472229
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3KAQJar8_w4/0.jpg)](http://www.youtube.com/watch?v=3KAQJar8_w4)
+![donguri-devil-may-cry-v (1)](https://github.com/wentallout/cult-hunter/assets/76118931/a873ef9e-e62d-4213-aa5c-ff8bdf4b020c)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ALnxYoWR9v8/0.jpg)](http://www.youtube.com/watch?v=ALnxYoWR9v8)
 
