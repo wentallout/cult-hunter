@@ -91,6 +91,7 @@ Here are the controls, all of them are just `TAP`, no more headache. There are 6
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/e368d75b-788b-4203-b98a-05fa17b9d7c5)
 
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a tapping combo, you can press `Q` or `E` to launch an ending explosive attack. `Q` for AoE/Range, `E` for single-target/kill boss
+- `FILLER`: fillers are less-damaging attacks you add after `ENDER`, their job is to break `ARMOR`, apply `DEBUFF` to enemies or even `BUFF` yourself.
   
 So most complete combos are just:
 - `LEFT MOUSE` x2, x3, x4, x5 then end the combo with `Q` or `E`
