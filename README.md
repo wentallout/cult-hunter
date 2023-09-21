@@ -15,7 +15,12 @@ git clone https://github.com/wentallout/cult-hunter.git
 Open `project.godot` with your Godot application
 
 ## Inspiration
-Japanese doomsday cult - Aum Shinrikyo: https://en.wikipedia.org/wiki/Aum_Shinrikyo
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/fa864754-4cd0-4c80-9569-87b2279dc694)
+
+https://en.wikipedia.org/wiki/Aum_Shinrikyo
+
+Aum Shinrikyo was a Japanese doomsday cult led by Shoko Asahara. In the 1990s, they carried out a series of deadly attacks, including the Tokyo subway sarin gas attack in 1995, resulting in deaths and injuries. The group believed in a mix of apocalyptic and mystical beliefs, blending elements of Buddhism, Hinduism, and science fiction. Asahara and several members were arrested, tried, and some executed, leading to the group's decline.
 
 ## Plot (work-in-progress)
 At the start of the game, Nameless, our ordinary sushi chef, sets out to take down a cult that killed his master years ago. At the end of the battle he found out that this is only a sub branch of the real cult. His search leads him to city where he declares war on all these evil cults. `TUTORIAL ENDS`
