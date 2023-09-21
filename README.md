@@ -1,4 +1,4 @@
-# cult-hunter
+# Cult Hunter
 Khoa's work-in-progress game.
 
 ## Development
