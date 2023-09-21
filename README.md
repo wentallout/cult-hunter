@@ -77,6 +77,26 @@ Nameless and his allies must use their skills and resources to vanquish these tw
 Other activities: 
 - `AMBUSH`: sometimes players will be ambushed by a group of bounty hunters or cultists. The goal is to simply beat all of them up and get out.
 
+## Unique selling point
+
+- Multiple playable characters with unique gameplay
+- Fast-paced, simplified combat system that still allows freedom and creativity
+- Switching weapons and fighting styles while fighting
+- Multiple endings
+- Interact with the environments to attack enemies
+
+## Genre Research
+
+- Hack and Slash Genre: Popular hack and slash games like "Devil May Cry," "Bayonetta," and "Ninja Gaiden" are known for their deep combat systems, which players enjoy mastering.
+- Roguelike Features: Roguelike elements, such as permadeath and procedural generation, have gained popularity in recent years. Games like "Dead Cells" and "Hades" have been successful in blending roguelike mechanics with action gameplay.
+- Loot and Progression: The inclusion of loot and progression systems can provide long-term engagement for players. Games like "Diablo" and "Borderlands" are well-known for their loot-based gameplay.
+
+## Market Research
+
+- Market Trends: Keep an eye on industry trends, such as the rise of indie games, the popularity of multiplayer experiences, and emerging gaming platforms like mobile and VR.
+- Competition: Analyze competing games in the hack and slash and roguelike genres to identify gaps and opportunities. Look at player reviews and feedback to understand what players like and dislike.
+- Player Feedback: Gather feedback from potential players and gamers through surveys, interviews, and social media to refine your game concept and mechanics.
+
 
 ## Problems players have with other hack and slash games
 
@@ -245,4 +265,8 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/115ccad2-a6ea-4420-b2e6-26dcab14b4ae)
+
+## Prototype
+
+work-in-progress
 
