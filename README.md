@@ -56,16 +56,15 @@ Nameless and his allies must use all of their skills and resources to defeat the
 
 ![donguri-devil-may-cry-v (1)](https://github.com/wentallout/cult-hunter/assets/76118931/a873ef9e-e62d-4213-aa5c-ff8bdf4b020c)
 
-Humans can easily count 1,2,3,4 and tap the table using that rhythm. Now what happens when you count in your head and do 2 different things at the same time? You're adding load to your memory.
+Humans can easily count 1,2,3,4 and tap the table using that rhythm. Now what happens when you count in your head and do 2 different things at the same time? You're adding load to your brain.
 
 This is a known problems in DMC5. Here's why:
 - You have to hold too many buttons to do one simple thing. 
-EX: Stinger is a sword thrust move you can do by `HOLD SHIFT` + `W` + `LEFT MOUSE`.
-- Inputs are designed for controllers, not keyboards.
+EX: Stinger is a sword thrust move you can do by `HOLD SHIFT` + `W` + `LEFT MOUSE`. These **holding inputs** will really add up and mess with your head when you have to do long combos.
+- Most of these inputs were designed for controllers, not keyboards and mouse.
+- You drop your combo immediately if you don't press the correct follow-up attack
 
-These **holding inputs** will really add up and mess with your head when you have to do long combos.
-
-=> **SOLUTION**: just make sure all inputs are `TAP`, tap 2 times, tap 3 times, tap 4 times, don't hold anything, don't combine anything. Gamers have limited memory.
+=> **SOLUTION**: just make sure all inputs are limited to `TAP`, tap 2 times, tap 3 times, tap 4 times, don't hold anything, don't combine anything. Make sure all attacks can link together. Gamers have limited memory.
 
 
 ### ⚠Problem 2: The Paradox of Choice
