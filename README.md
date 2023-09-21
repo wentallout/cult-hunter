@@ -97,7 +97,6 @@ Here are the controls, all of them are just you tapping so no more headache.
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/86ace323-d96b-47f6-937c-e190de539bf5)
 
 
-
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a tapping combo, you can press `Q` or `E` to launch an ending explosive attack. `Q` for AoE/Range, `E` for single-target/kill boss
 - `FILLER`: fillers are less-damaging attacks you add after `ENDER`, their job is to break `ARMOR`, apply `DEBUFF` to enemies or even `BUFF` yourself.
   
@@ -133,16 +132,17 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 - Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate.
 - Accessories: Rings modify attacks, Necklaces modify defense, Earrings give you a passive.
 
-## Character Stats
+## Character Status
 
-- `HP` bar: health bar, if it reaches 0 your run ends and you have to try the whole thing again (this game is rogue-like)
+- `HEALTH` bar: if it reaches 0 your run ends and you have to try `RAID` again from floor 1.
 - `DODGE` bar (to replace SHIELD): character will automatically dodge when this bar isn't 0.
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
-
 
 ## ⌨Controls
 
 Cult Hunter is designed for PC. I want a simplified, more accessible combat system. No more training to get a long combo. I want players to focus on precise movements instead of remembering inputs.
+
+### Basic Movement
 
 - Move: `W,A,S,D`
 - Jump: `SPACE`
@@ -198,16 +198,16 @@ Cult Hunter is designed for PC. I want a simplified, more accessible combat syst
 
 `INVESTIGATION` matters: gathering information about cult leaders can help you prepare for them.
 
-## Skill System
+## Skill Tree
 
-- `FORBIDDEN MAGIC`: people with natural magic are already extinct. Most super powers in the game world comes from people making contracts with interdimensional entitie (offering something you have for power).
+- `FORBIDDEN MAGIC` (`ACTIVE`): people with natural magic are already extinct. Most super powers in the game world comes from people making contracts with interdimensional entitie (offering something you have for power).
   
-- `CURSED TATTOO`: characters have these tattoos that modify their stats (ex: Ava has the `Equalizer` tattoo that matches her stat with the strongest person in her POV)
+- `CURSED TATTOO` (`PASSIVE`): characters have these tattoos that modify their stats (ex: Ava has the `Equalizer` tattoo that matches her stat with the strongest person in her POV)
 
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/4cd09dd3-6480-4cad-bbe3-01657721afdd)
 
-- `AURA`: characters can emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
+- `AURA` (`PASSIVE`): characters can emit a circular aura around them. Different people have different rules inside their aura. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
 
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/115ccad2-a6ea-4420-b2e6-26dcab14b4ae)
