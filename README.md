@@ -82,13 +82,14 @@ When your games have multiple characters, you're gonna run into the TIER LIST pr
 
 ## My Simplified Combat Mechanics
 
-Here are the controls, all of them are just `TAP`, no more headache. There are 6 steps/slots for a combo.
+Here are the controls, all of them are just you tapping so no more headache.
 
-![image](https://github.com/wentallout/cult-hunter/assets/76118931/48091625-115e-4cea-926b-115e0bc76d38)
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/eff94f0a-e5a0-440b-b897-033a579ba986)
 
-- Players execute their combo by filling in these 6 slots with whatever they like, players can now easily design how they fight in their head without any memorization
+- Combos always have 6 steps. Players execute their combo by filling in these 6 steps/slots with whatever they like, players can now easily design how they fight in their head without any memorization
 
-![image](https://github.com/wentallout/cult-hunter/assets/76118931/e368d75b-788b-4203-b98a-05fa17b9d7c5)
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/2db3d510-5149-45ea-b749-5a4b591f7c3d)
+
 
 - `ENDER`: ender is a unique mechanic in Cult Hunter, after the end of a tapping combo, you can press `Q` or `E` to launch an ending explosive attack. `Q` for AoE/Range, `E` for single-target/kill boss
 - `FILLER`: fillers are less-damaging attacks you add after `ENDER`, their job is to break `ARMOR`, apply `DEBUFF` to enemies or even `BUFF` yourself.
