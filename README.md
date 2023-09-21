@@ -2,10 +2,11 @@
 
 Nguyen Dang Khoa's work-in-progress game concept. I will use this README and the wiki to document my design.
 
-Plan 1: make a 2D game to learn the basics
-Plan 2: slowly implement a 3D version when there are enough assets
-
 ## Project MVP
+
+Plan 1: make a 2D game to learn the basics
+
+Plan 2: slowly implement a 3D version when there are enough assets
 
 - [ ] Working Movement and Combat (Mouse+Keyboard)
 - [ ] One playable character
