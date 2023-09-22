@@ -168,6 +168,12 @@ Boss won't attack immediately, they will have wind up animations or show red ran
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/ad9cf80a-e5ea-4657-b141-45e1209f3070)
 
+### Tip 2: Prep Corridor
+
+The 2 gates in Mega Man trains player to prepare for the incoming boss.
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/6ba0c0e9-a000-46a5-b7ec-444bd3af7c78)
+
 
 ## Locations
 
