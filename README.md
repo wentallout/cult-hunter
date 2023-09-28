@@ -87,10 +87,16 @@ Other activities:
 
 ## Genre Research
 
-- Hack and Slash Genre: Popular hack and slash games like "Devil May Cry," "Bayonetta," and "Ninja Gaiden" are known for their deep combat systems, which players enjoy mastering.
+- Hack and Slash Genre: hack and slash games are known for their deep combat systems, which players enjoy mastering.
 - Roguelike Features: Roguelike elements, such as permadeath and procedural generation, have gained popularity in recent years. Games like "Dead Cells" and "Hades" have been successful in blending roguelike mechanics with action gameplay.
 - Loot and Progression: The inclusion of loot and progression systems can provide long-term engagement for players. Games like "Diablo" and "Borderlands" are well-known for their loot-based gameplay.
-
+- 
+Great game example:
+- Action Roguelike:
+	- Skul - The Hero Slayer
+- Hack and Slash:
+	- "Devil May Cry," "Bayonetta," and "Ninja Gaiden"
+   
 ## Market Research
 
 - Market Trends: Keep an eye on industry trends, such as the rise of indie games, the popularity of multiplayer experiences, and emerging gaming platforms like mobile and VR.
