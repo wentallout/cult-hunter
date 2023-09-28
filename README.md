@@ -35,24 +35,36 @@ https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
 Aum Shinrikyo was a Japanese doomsday cult led by Shoko Asahara. In the 1990s, they carried out a series of deadly attacks, including the Tokyo subway sarin gas attack in 1995, resulting in deaths and injuries. The group believed in a mix of apocalyptic and mystical beliefs, blending elements of Buddhism, Hinduism, and science fiction. Asahara and several members were arrested, tried, and some executed, leading to the group's decline.
 
-## Plot (work-in-progress)
+## So what is a cult?
+
+A cult is a group or organization characterized by extreme devotion to a particular leader, ideology, or set of beliefs, often involving manipulative and controlling tactics to influence and retain members. These groups typically isolate their members from mainstream society and may engage in harmful or unconventional practices.
+
+Cults have been responsible for a wide range of harmful and destructive activities throughout history:
+
+- Mass Suicides and Murders: Jonestown Massacre (1978): The People's Temple led by Jim Jones ended in tragedy when over 900 members died in a mass murder-suicide in Guyana. Heaven's Gate (1997): 39 members of the Heaven's Gate cult committed mass suicide in California, believing they would be transported to an alien spacecraft.
+- Brainwashing and Manipulation: Many cults employ psychological manipulation and brainwashing techniques to control their members' thoughts and behaviors, isolating them from friends and family and making it difficult for them to leave.
+- Child Abuse: Some cults have been involved in child abuse, either through neglect, physical abuse, or sexual exploitation. Notable cases include the Children of God cult and the Branch Davidians.
+- Violence and Terrorism: Cults like Aum Shinrikyo in Japan, led by Shoko Asahara, engaged in acts of domestic terrorism, including the 1995 Tokyo subway sarin gas attack.
+- Financial Exploitation:Many cults pressure members to donate large sums of money or turn over their assets to the group, often leaving them financially ruined.
+- Isolation from Society: Cults often isolate their members from the outside world, making it difficult for them to seek help or leave the group.
+- Physical and Emotional Abuse: Cult leaders have been known to physically and emotionally abuse their followers, often using fear and intimidation to maintain control.
+- Human Sacrifice and Rituals: Some cults have engaged in rituals involving human sacrifice or other extreme and harmful activities as part of their beliefs.
+- Criminal Activities: Cults have been involved in various criminal activities, including fraud, theft, and drug trafficking, to finance their operations.
+- Deceptive Recruitment: Cults often employ deceptive and manipulative tactics to recruit new members, such as false promises of personal growth or spiritual enlightenment.
+
+=> I think "cult" is a great unexplored theme that can be used to design a great story because the whole concept of "cult" is just a religion and they are not always 100% evil. That will put the our heroes in a `ethical gray area` (An ethical gray area is a situation in which two or more courses of action are available, and none of them appear to be ethically "right" or "wrong.")
+
+## Plot
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/8a380f26-e737-460e-ab0b-d6f12b5e104f)
 
+In the busy city of Havenbrook, there's a nameless sushi chef (so we'll just call him `Nameless`). Nameless's out for revenge because in the past a group of people murdered his master. These evil people has formed a new religious movement in the city, they worship gods from the `Otherverse`, they use forbidden magic and human sacrifice rituals to achieve their goals for money and power. Nameless is not against religions or anything, he just want them dead. He entered one of their headquarters and proceed to exterminate all of them. But then he finds out this organization is just a small part of something bigger.
 
-In the bustling city of Havenbrook, a seemingly ordinary sushi chef known as Nameless embarks on a relentless mission of vengeance. Years ago, his beloved master fell victim to a shadowy cult's sinister machinations. Armed with remarkable knife skills honed over the years, Nameless sets out to dismantle the very organization that took everything from him.
+The cult realized how dangerous and powerful Nameless is so they decided to put a massive $20millions bounty on him so that every hitmen in the city would look for him. Kimberly and Jigen are one of those hitmen but their boss (Eli) ordered them to bring Nameless alive to him. The hitmen duo managed to save Nameless and bring him back to `Zenith Hotel` - a hidden safe location for international assassins. Eli begins explaining that the cult has spread too wide and will affect everyone's business. He plans to gather a group of assassins to take down the cult and bring order back to the city. He's confident that with Nameless' help, they now have a fighting chance.
 
-However, after a fierce battle, Nameless discovers that the cult he's been battling is merely a subsidiary of a more insidious and elusive cult. His unyielding pursuit of justice takes him to Havenbrook City, where he boldly declares war on the enigmatic cult, capturing the attention of all who reside in its shadow.
+There are 12 cult leaders - 12 Apostles, each of them manage a different branch of the cult. These guys have crazy supernatural powers and a lot of followers.
 
-Meanwhile, we find ourselves in Zenith Hotel, a discreet sanctuary for assassins, where two renowned hitmen, Kimberly and Jigen, received an email about the cult's latest 20 Million $ contract: to eliminate Nameless. But their employer, Eli, the enigmatic owner of Zenith Hotel, has different plans. He commands them to deliver Nameless safely to him.
-
-Within the confines of Zenith Hotel, Nameless is initiated into the intricate and treacherous criminal underworld. Eli unveils a shocking revelation: the cult's pervasive influence, manipulating every facet of the city — how its people live, what they learn, and even the news they consume. While Zenith Hotel may have maintained an ambiguous stance, the cult's growing reach has tipped the scales, necessitating a drastic response.
-
-Eli confides in Nameless, revealing the hotel's newfound purpose: to unite the nation's most skilled assassins and obliterate the malevolent cultists. He places his faith in Nameless's formidable abilities, believing that they finally possess the strength needed to confront the cult's menace head-on.
-
-As Nameless and his allies continue their relentless campaign against the cult's numerous factions, they eventually cross paths with the Apostles — a formidable cadre of twelve charismatic leaders who hold the reins of power within the cult. These enigmatic individuals have garnered the allegiance of the city's elite, rendering them formidable adversaries. Operating in the shadows, the Apostles remain elusive, thwarting all attempts to track them down.
-
-Nameless and his allies must use their skills and resources to vanquish these twelve formidable adversaries. All the while, they unravel the cult's dark agenda for the city, one that threatens to plunge it into eternal darkness. The destiny of Havenbrook hinges on the shoulders of Nameless and his steadfast companions as they confront the Cult Leaders and their loyal followers in epic battles. Armed with unwavering determination, cunning intellect, and unmatched expertise, they must thwart the Cult's scheme before it engulfs the city, ensuring justice prevails for all who have suffered.
+Can Nameless and his new allies take down the 12 Apostles?
 
 ## Basic Gameplay
 
