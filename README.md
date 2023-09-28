@@ -2,9 +2,9 @@
 
 Nguyen Dang Khoa's work-in-progress game concept. I will use this README and the wiki to document my design.
 
-Project Name: Cult Hunter
-Genre: Hack and Slash, Rogue-likem, Adventure
-Platform: PC (Windows 10,11)
+- Project Name: Cult Hunter
+- Genre: Hack and Slash, Rogue-likem, Adventure
+- Platform: PC (Windows 10,11)
 
 ## Project MVP
 
