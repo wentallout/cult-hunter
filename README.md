@@ -134,7 +134,7 @@ EX: Stinger is a sword thrust move you can do by `HOLD SHIFT` + `W` + `LEFT MOUS
 - Most of the game inputs were designed for controllers, not for keyboards and mouse. I'm trying to make a PC game here. => Platform problems
 - You drop your combo immediately if you don't press the correct follow-up attack => Timing and memory problems
 
-=> **SOLUTION**: just make sure all inputs are limited to `TAP`, tap 2 times, tap 3 times, tap 4 times, don't hold anything, don't combine anything. Make sure all attacks can link together. Gamers have limited memory.
+=> **SOLUTION**: just make sure all inputs are limited to `TAP`, tap 2 times, tap 3 times, tap 4 times, don't hold anything, don't combine anything. Make sure all attacks can link together. Let's just assume gamers have limited memory and design easier combat.
 
 
 ### ⚠Problem 2: The Paradox of Choice
