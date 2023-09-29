@@ -62,13 +62,11 @@ Cults have been responsible for a wide range of harmful and destructive activiti
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/8a380f26-e737-460e-ab0b-d6f12b5e104f)
 
-In the busy city of Havenbrook, there's a nameless sushi chef (so we'll just call him `Nameless`). Nameless's out for revenge because in the past a group of people murdered his master. These evil people has formed a new religious movement in the city, they worship gods from the `Otherverse`, they use forbidden magic and human sacrifice rituals to achieve their goals for money and power. Nameless is not against religions or anything, he just want them dead. He entered one of their headquarters and proceed to exterminate all of them. But then he finds out this organization is just a small part of something bigger.
+In the busy city of Havenbrook, there's a sushi chef named "Nameless" seeking revenge. Some time ago, a group of people killed his master. These evildoers have formed a new religious cult in the city, worshiping gods from the "Otherverse" and using forbidden magic and human sacrifices to gain power and money. Nameless isn't against religions, but he wants these cultists gone. He entered one of their hideouts and started taking them out. But Nameless soon discovers that this organization is just a small part of something much bigger
 
-The cult realized how dangerous and powerful Nameless is so they decided to put a massive $20millions bounty on him so that every hitmen in the city would look for him. Kimberly and Jigen are one of those hitmen but their boss (Eli) ordered them to bring Nameless alive to him. The hitmen duo managed to save Nameless and bring him back to `Zenith Hotel` - a hidden safe location for international assassins. Eli begins explaining that the cult has spread too wide and will affect everyone's business. He plans to gather a group of assassins to take down the cult and bring order back to the city. He's confident that with Nameless' help, they now have a fighting chance.
+Realizing Nameless' immense threat, the cult puts a massive $20 million bounty on him, making every hitman in the city hunt for him. Kimberly and Jigen are two of these hitmen, but their boss, Eli, wants Nameless brought in alive. They manage to capture Nameless and bring him to the "Zenith Hotel," a hidden spot for assassins. Eli explains that the cult has grown too powerful and threatens everyone's business. His plan: gather a team of assassins to take down the cult and bring order back to the city. Eli is confident that they now have a fighting chance thanks to Nameless.
 
-There are 12 cult leaders - 12 Apostles, each of them manage a different branch of the cult. These guys have crazy supernatural powers and a lot of followers.
-
-Can Nameless and his new allies take down the 12 Apostles?
+The cult has 12 leaders, known as the "12 Apostles," each with supernatural powers and a lot of followers. Can Nameless and his new allies defeat these Apostles and end the cult's reign of terror? The battle ahead promises excitement and danger.
 
 ## Basic Gameplay
 
