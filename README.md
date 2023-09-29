@@ -73,12 +73,11 @@ The cult has 12 leaders, known as the "12 Apostles," each with supernatural powe
 ## Basic Gameplay
 
 - Cult Hunter is a stylish, action-adventure, hack and slash game with rogue-like features
-
 - **Hack and Slash**: Players freely express themselves through brutal combat, use guns and katana to do beautiful combos, dashing to dodge enemies' attack.
 - **Rogue-like**: If players die during a run, they have to start all over again . When they clear a floor, players receive random temporary charms that boost their survivability. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
-- **Loot**: enemies will drop weapons that you can pickup and enhance/modify with runes
-- **Progression**: Players gain new weapons, skills and money when fighting. If player dies, they only lose their `CHARM`.
-- **Increasing Difficulty** Leveling is an outdated system in my opinion, when players progress through the story and get more powerful gear, enemies will be scaled properly to make sure it's always engaging and fun.
+
+Abandoned ideas: Dropping equipments with random stats like a RPG can be fun but not worth doing on our small project
+ - ~**Loot and Progression**: enemies will drop weapons that you can pickup and enhance/modify with runes. Players gain new weapons, skills and money when fighting.~
 
 - There are 2 main activities: `INVESTIGATE` and `RAID`:
 - In `INVESTIGATE`:
