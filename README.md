@@ -221,25 +221,21 @@ https://github.com/wentallout/cult-hunter/wiki/Locations
 - Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate.
 - Accessories: Rings modify attacks, Necklaces modify defense, Earrings give you a passive.
 
-### Quests
 
-- Main quest: related to cults' activities, `INVESTIGATION` and `RAID`
-- Side quest: given by random NPC in the city. EX: find missing people, dating advice, track down perverts, stalkers, ghosts, serial killers.
 
 ## Game Mechanic
 
-## Character Status
+### ⌨Controls
+
+https://github.com/wentallout/cult-hunter/wiki/controls
+
+### Character Status
 
 - `HEALTH` bar: if it reaches 0 your run ends and you have to try `RAID` again from floor 1.
 - `DODGE` bar: character will automatically dodge incoming attack when this bar isn't 0.
 - `STRESS` bar: cult members can cast psychological attacks on player that cause debuff (slow, stun, inaccuracy, damage reduction) when it reach below 0.
 
-## ⌨Controls
-
-https://github.com/wentallout/cult-hunter/wiki/controls
-
-
-## Style Switching (`F`)
+### Style Switching (`F`)
 
 - One character can hold 2 fighting styles that they can switch to.
 - EX: you can have one mode for crowd control and one mode for bossing.
@@ -247,7 +243,12 @@ https://github.com/wentallout/cult-hunter/wiki/controls
 - You can equip different styles in a menu.
 - You can also switch style mid-combo
 
-## Let players use everything they have
+### Quests
+
+- Main quest: related to cults' activities, `INVESTIGATION` and `RAID`
+- Side quest: given by random NPC in the city. EX: find missing people, dating advice, track down perverts, stalkers, ghosts, serial killers.
+
+### Let players use everything they have
  
 `RANGE` matters:
 - Characters do different attacks depend on the range and the angle between them and the enemies.
@@ -257,14 +258,14 @@ https://github.com/wentallout/cult-hunter/wiki/controls
 `ENVIRONMENT` matters: players can throw bottles into enemies, shoot oil barrels, kick tables, kick enemies down a cliff, etc
 
 `STEALTH` matters:
-- You're always outnumbered by the cult, try to sneak through, disable alarms early.
+- You're always outnumbered by the cult, so try to sneak through, disable alarms, kill long-range enemies early.
 
 `CHARISMA` matters:
 - You can clear certain missions by picking the right dialogue instead of fighting.
 
 `INVESTIGATION` matters: gathering information about cult leaders can help you prepare for them.
 
-## Skill Tree
+### Skill Tree
 
 - `FORBIDDEN MAGIC` (ACTIVE SKILLS): people with natural magic are already extinct. Most supernatural powers in the game world comes from people making contracts with interdimensional entitie (offering something you have for power).
   
@@ -274,10 +275,7 @@ https://github.com/wentallout/cult-hunter/wiki/controls
 
 - `AURA` (RAGE PASSIVE): characters can emit a circular aura around them when they activate `RAGE`. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
 
-
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/115ccad2-a6ea-4420-b2e6-26dcab14b4ae)
 
-## Prototype
 
-work-in-progress
 
