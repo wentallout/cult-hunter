@@ -236,38 +236,8 @@ https://github.com/wentallout/cult-hunter/wiki/Locations
 
 ## ⌨Controls
 
-Cult Hunter is designed for PC. I want players to focus on precise movements to dodge incoming complicated enemies attacks.
+https://github.com/wentallout/cult-hunter/wiki/controls
 
-### Basic Movement
-
-- Move: `W,A,S,D`
-- Jump: `SPACE`
-- Crouch: `CTRL`
-- Look: `MOUSE`
-
-### Dash-related
-
-- Dash: `SHIFT`, dash into an obstacle will make characters "parkour" through it
-- Dash Attack: `SHIFT` then `LEFT MOUSE`
-- Dash Jump: `SHIFT` then `SPACE`
-- Dash Slide: `SHIFT` then `CTRL`
-- Sprint: hold `SHIFT` to sprint, you can do `WALL RUNNING` if you run and touch a wall.
-
-### Attack-related
-
-- Attack : `LEFT MOUSE`
-- Block: `RIGHT MOUSE`
-- Launcher: `SCROLL WHEEL UP`, launch enemies into the air
-- Finsher: `TAP SCROLL WHEEL` to do a fancy animation and execute an enemy
-- Swap weapons: `TAB`
-- Change style: `F`
-- Pick/throw/kick: `G`, if your character can't pick something up, like a heavy table, they'll launch it into nearest enemies. If there's nothing to pickup, they'll kick enemies.
-- Skills: `1`,`2`,`3`,`4`
-- Rage: `Q`+`E` (still working on this)
-
-### Other
-
-- Taunt: `T`
 
 ## Style Switching (`F`)
 
