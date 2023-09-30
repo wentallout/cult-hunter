@@ -88,6 +88,9 @@ Some great games example:
 
 - Market Trends: Keep an eye on industry trends, such as the rise of indie games, the popularity of multiplayer experiences, and emerging gaming platforms like mobile and VR.
 - Competition: Analyze competing games in the hack and slash and roguelike genres to identify gaps and opportunities. Look at player reviews and feedback to understand what players like and dislike.
+
+### User Research
+- Playtest: test a new game for bugs and design flaws.
 - Player Feedback: Gather feedback from potential players and gamers through surveys, interviews, and social media to refine your game concept and mechanics.
 
 ## Basic Gameplay
