@@ -41,24 +41,9 @@ https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
 Aum Shinrikyo was a Japanese doomsday cult led by Shoko Asahara. In the 1990s, they carried out a series of deadly attacks, including the Tokyo subway sarin gas attack in 1995, resulting in deaths and injuries. The group believed in a mix of apocalyptic and mystical beliefs, blending elements of Buddhism, Hinduism, and science fiction. Asahara and several members were arrested, tried, and some executed, leading to the group's decline.
 
-## So what is a cult?
+## What is a cult?
 
-A cult is a group or organization characterized by extreme devotion to a particular leader, ideology, or set of beliefs, often involving manipulative and controlling tactics to influence and retain members. These groups typically isolate their members from mainstream society and may engage in harmful or unconventional practices.
-
-Cults have been responsible for a wide range of harmful and destructive activities throughout history:
-
-- Mass Suicides and Murders: Jonestown Massacre (1978): The People's Temple led by Jim Jones ended in tragedy when over 900 members died in a mass murder-suicide in Guyana. Heaven's Gate (1997): 39 members of the Heaven's Gate cult committed mass suicide in California, believing they would be transported to an alien spacecraft.
-- Brainwashing and Manipulation: Many cults employ psychological manipulation and brainwashing techniques to control their members' thoughts and behaviors, isolating them from friends and family and making it difficult for them to leave.
-- Child Abuse: Some cults have been involved in child abuse, either through neglect, physical abuse, or sexual exploitation. Notable cases include the Children of God cult and the Branch Davidians.
-- Violence and Terrorism: Cults like Aum Shinrikyo in Japan, led by Shoko Asahara, engaged in acts of domestic terrorism, including the 1995 Tokyo subway sarin gas attack.
-- Financial Exploitation:Many cults pressure members to donate large sums of money or turn over their assets to the group, often leaving them financially ruined.
-- Isolation from Society: Cults often isolate their members from the outside world, making it difficult for them to seek help or leave the group.
-- Physical and Emotional Abuse: Cult leaders have been known to physically and emotionally abuse their followers, often using fear and intimidation to maintain control.
-- Human Sacrifice and Rituals: Some cults have engaged in rituals involving human sacrifice or other extreme and harmful activities as part of their beliefs.
-- Criminal Activities: Cults have been involved in various criminal activities, including fraud, theft, and drug trafficking, to finance their operations.
-- Deceptive Recruitment: Cults often employ deceptive and manipulative tactics to recruit new members, such as false promises of personal growth or spiritual enlightenment.
-
-=> I think "cult" is a great unexplored theme that can be used to design a great story because the whole concept of "cult" is just a religion and they are not always 100% evil. That will put the our heroes in a `ethical gray area` (An ethical gray area is a situation in which two or more courses of action are available, and none of them appear to be ethically "right" or "wrong.")
+https://github.com/wentallout/cult-hunter/wiki/What-is-a-cult%3F
 
 ## Plot
 
