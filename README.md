@@ -70,6 +70,12 @@ Realizing Nameless' immense threat, the cult puts a massive $20 million bounty o
 
 The cult has 12 leaders, known as the "12 Apostles," each with supernatural powers and a lot of followers. Can Nameless and his new allies defeat these Apostles and end the cult's reign of terror? The battle ahead promises excitement and danger.
 
+## Genre Research
+
+- Hack and Slash Genre: hack and slash games are known for their deep combat systems, which players enjoy mastering.
+- Roguelike Features: Roguelike elements, such as permadeath and procedural generation, have gained popularity in recent years. Games like "Dead Cells" and "Hades" have been successful in blending roguelike mechanics with action gameplay.
+- Progression: players gain money to unlock/upgrade their skills. weapons and other equipments will be dropped by enemies, equipments will have fixed stats (to easily balance the game, avoid overpowered one-shot builds)
+
 ## Basic Gameplay
 
 - Cult Hunter is a stylish, action-adventure, hack and slash game with rogue-like features
@@ -77,7 +83,6 @@ The cult has 12 leaders, known as the "12 Apostles," each with supernatural powe
 - **Rogue-like**: If players die during a run, they have to start all over again . When they clear a floor, players receive random temporary charms that boost their survivability. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
 
 Abandoned ideas: Dropping equipments with random stats like a RPG can be fun but not worth doing on our small project
- - ~**Loot and Progression**: enemies will drop weapons that you can pickup and enhance/modify with runes. Players gain new weapons, skills and money when fighting.~
 
 - There are 2 main activities: `INVESTIGATE` and `RAID`:
 - In `INVESTIGATE`:
@@ -100,11 +105,7 @@ Other activities:
 - Multiple endings
 - Interact with the environments to attack enemies
 
-## Genre Research
 
-- Hack and Slash Genre: hack and slash games are known for their deep combat systems, which players enjoy mastering.
-- Roguelike Features: Roguelike elements, such as permadeath and procedural generation, have gained popularity in recent years. Games like "Dead Cells" and "Hades" have been successful in blending roguelike mechanics with action gameplay.
-- ~Loot and Progression: The inclusion of loot and progression systems can provide long-term engagement for players. Games like "Diablo" and "Borderlands" are well-known for their loot-based gameplay.~
 
 Great game example:
 - Action Roguelike:
