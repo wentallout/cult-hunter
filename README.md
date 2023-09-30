@@ -70,17 +70,31 @@ Realizing Nameless' immense threat, the cult puts a massive $20 million bounty o
 
 The cult has 12 leaders, known as the "12 Apostles," each with supernatural powers and a lot of followers. Can Nameless and his new allies defeat these Apostles and end the cult's reign of terror? The battle ahead promises excitement and danger.
 
-## Genre Research
+## Research
+
+### Genre Research:
 
 - Hack and Slash Genre: hack and slash games are known for their deep combat systems, which players enjoy mastering.
-- Roguelike Features: Roguelike elements, such as permadeath and procedural generation, have gained popularity in recent years. Games like "Dead Cells" and "Hades" have been successful in blending roguelike mechanics with action gameplay.
+- Roguelike Features: Roguelike elements, such as permadeath and procedural generation, have gained popularity in recent years.
 - Progression: players gain money to unlock/upgrade their skills. weapons and other equipments will be dropped by enemies, equipments will have fixed stats (to easily balance the game, avoid overpowered one-shot builds)
+- 
+Some great games example:
+- Action Roguelike:
+	- Skul - The Hero Slayer, Hades, Dead Cells, Cult of the Lamb
+- Hack and Slash:
+	- "Devil May Cry," "Bayonetta," and "Ninja Gaiden"
+
+### Market Research
+
+- Market Trends: Keep an eye on industry trends, such as the rise of indie games, the popularity of multiplayer experiences, and emerging gaming platforms like mobile and VR.
+- Competition: Analyze competing games in the hack and slash and roguelike genres to identify gaps and opportunities. Look at player reviews and feedback to understand what players like and dislike.
+- Player Feedback: Gather feedback from potential players and gamers through surveys, interviews, and social media to refine your game concept and mechanics.
 
 ## Basic Gameplay
 
-- Cult Hunter is a stylish, action-adventure, hack and slash game with rogue-like features
+- Cult Hunter is a stylish single-player, third person shooter, action-adventure, hack and slash game with rogue-like features.
 - **Hack and Slash**: Players freely express themselves through brutal combat, use guns and katana to do beautiful combos, dashing to dodge enemies' attack.
-- **Rogue-like**: If players die during a run, they have to start all over again . When they clear a floor, players receive random temporary charms that boost their survivability. These `CHARM` will disappear after the stage is over but they're very powerful and will motivate the players to clear/replay.
+- **Rogue-like**: If players die during a run, they have to start all over again . When they clear a floor, players receive random temporary charms that boost their survivability. These `CHARM` only exists during that run and will disappear after players cleared the last stage.
 
 Abandoned ideas: Dropping equipments with random stats like a RPG can be fun but not worth doing on our small project
 
@@ -104,21 +118,6 @@ Other activities:
 - Switching weapons and fighting styles while fighting
 - Multiple endings
 - Interact with the environments to attack enemies
-
-
-
-Great game example:
-- Action Roguelike:
-	- Skul - The Hero Slayer
-- Hack and Slash:
-	- "Devil May Cry," "Bayonetta," and "Ninja Gaiden"
-   
-## Market Research
-
-- Market Trends: Keep an eye on industry trends, such as the rise of indie games, the popularity of multiplayer experiences, and emerging gaming platforms like mobile and VR.
-- Competition: Analyze competing games in the hack and slash and roguelike genres to identify gaps and opportunities. Look at player reviews and feedback to understand what players like and dislike.
-- Player Feedback: Gather feedback from potential players and gamers through surveys, interviews, and social media to refine your game concept and mechanics.
-
 
 ## Problems players have with other hack and slash games
 
@@ -197,20 +196,17 @@ The 2 gates in Mega Man trains player to prepare for the incoming boss.
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/6ba0c0e9-a000-46a5-b7ec-444bd3af7c78)
 
 
-## Locations
+## Game Elements
 
-https://github.com/wentallout/cult-hunter/wiki/Locations       
-
-## Characters
+### Characters
 
 https://github.com/wentallout/cult-hunter/wiki/Characters
 
-## Quests
+### Locations
 
-- Main quest: related to cults' activities, `INVESTIGATION` and `RAID`
-- Side quest: given by random NPC in the city. EX: find missing people, dating advice, track down perverts, stalkers, ghosts, serial killers.
+https://github.com/wentallout/cult-hunter/wiki/Locations
 
-## Equipments
+### Equipments
 
 - Stats in the game comes from `WEAPONS` and `ACCESSORIES` since **clothes are meant for fashion**. Players want to look good while they fight.
 
@@ -224,6 +220,13 @@ https://github.com/wentallout/cult-hunter/wiki/Characters
 	+ ...etc
 - Cursed Weapon: hard to use but powerful, has some small stat debuff which force players to build their character to compensate.
 - Accessories: Rings modify attacks, Necklaces modify defense, Earrings give you a passive.
+
+### Quests
+
+- Main quest: related to cults' activities, `INVESTIGATION` and `RAID`
+- Side quest: given by random NPC in the city. EX: find missing people, dating advice, track down perverts, stalkers, ghosts, serial killers.
+
+## Game Mechanic
 
 ## Character Status
 
