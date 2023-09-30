@@ -115,8 +115,8 @@ Example: https://www.reddit.com/r/DevilMayCry/comments/13v7mem/the_reason_dmc_is
 - If the game is complex, delay the tutorials, don't dump all tutorials in one location, split them into smaller chunks and only show them when it's relevant.
 - Let players learn by playing is the best way.
 
-EX: We can force them into a fight scenario where they have to do a specific attack input to progress, that will teach them how to use that attack.
-EX: The game only pops up the crafting tutorial when players find a crafting table.
+- EX: We can force them into a fight scenario where they have to do a specific attack input to progress, that will teach them how to use that attack.
+- EX: The game only pops up the crafting tutorial when players find a crafting table.
 
 3/ Simplify the UI
 
