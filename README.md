@@ -74,15 +74,20 @@ The cult has 12 leaders, known as the "12 Apostles," each with supernatural powe
 
 ### Genre Research:
 
-- Hack and Slash Genre: hack and slash games are known for their deep combat systems, which players enjoy mastering.
-- Roguelike Features: Roguelike elements, such as permadeath and procedural generation, have gained popularity in recent years.
+- Hack and Slash (https://en.wikipedia.org/wiki/Hack_and_slash): hack and slash games are known for their deep combat systems, which players enjoy mastering.
+- Roguelike (https://en.wikipedia.org/wiki/Roguelike) Features: Roguelike elements, such as permadeath and procedural generation, have gained popularity in recent years.
 - Progression: players gain money to unlock/upgrade their skills. weapons and other equipments will be dropped by enemies, equipments will have fixed stats (to easily balance the game, avoid overpowered one-shot builds)
-- 
-Some great games example:
-- Action Roguelike:
-	- Skul - The Hero Slayer, Hades, Dead Cells, Cult of the Lamb
+
+Some modern games example:
+- Roguelike:
+	- Hades, Dead Cells, Cult of the Lamb, Skul - The Hero Slayer, The Binding of Isaac, Slay the Spire
+   
 - Hack and Slash:
-	- "Devil May Cry," "Bayonetta," and "Ninja Gaiden"
+	- Devil May Cry, Bayonetta, Onimusha, Sengoku Basara, Dynasty Warrior, God of War, No More Heroes
+
+ Preference: 
+ - https://fptshop.com.vn/tin-tuc/giai-tri/roguelike-153478
+ - https://rulaesports.vn/blog/roguelike/
 
 ### Market Research
 
@@ -113,6 +118,27 @@ Some great games example:
 
 Other activities: 
 - `AMBUSH`: sometimes players will be ambushed by a group of bounty hunters or cultists. The goal is to simply beat all of them up and get out.
+
+## Core Philosophy
+
+1/ Allow players to be aggressive and constantly attacking. Some game force players to wait for enemies animation to dodge/parry which might not work on our project.
+
+Example: https://www.reddit.com/r/DevilMayCry/comments/13v7mem/the_reason_dmc_is_so_good_its_core_philosophy_on/
+
+2/ Slowly introduce new mechanics, split the tutorials
+
+- If the game is complex, delay the tutorials, don't dump all tutorials in one location, split them into smaller chunks and only show them when it's relevant.
+- Let players learn by playing is the best way
+EX: The game only pops up the crafting tutorial when players find a crafting table.
+
+3/ Simplify the UI
+
+- UI being too complex will be the downfall of most modern games
+
+4/ Fun first, Difficult later
+
+- We need to be aware of the fact that making a difficult but tedious games with misleading signals will only annoy players.
+- Make the `Core Loop` fun is the first goal. We can always add elements to make the game challenging later.
 
 ## Unique selling point
 
