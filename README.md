@@ -99,9 +99,9 @@ Some great games example:
 - **Hack and Slash**: Players freely express themselves through brutal combat, use guns and katana to do beautiful combos, dashing to dodge enemies' attack.
 - **Rogue-like**: If players die during a run, they have to start all over again . When they clear a floor, players receive random temporary charms that boost their survivability. These `CHARM` only exists during that run and will disappear after players cleared the last stage.
 
-Abandoned ideas: Dropping equipments with random stats like a RPG can be fun but not worth doing on our small project
 
 - There are 2 main activities: `INVESTIGATE` and `RAID`:
+
 - In `INVESTIGATE`:
 	- Players will go through the city, looking for clues, talking to people, finding information about hidden cults.
    	- Players can accept side-quests while roaming.
@@ -197,7 +197,6 @@ Boss won't attack immediately, they will have wind up animations or show red ran
 The 2 gates in Mega Man trains player to prepare for the incoming boss.
 
 ![image](https://github.com/wentallout/cult-hunter/assets/76118931/6ba0c0e9-a000-46a5-b7ec-444bd3af7c78)
-
 
 ## Game Elements
 
