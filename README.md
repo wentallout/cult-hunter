@@ -222,12 +222,40 @@ https://github.com/wentallout/cult-hunter/wiki/Locations
 - Accessories: Rings modify attacks, Necklaces modify defense, Earrings give you a passive.
 
 
-
 ## Game Mechanic
 
 ### ⌨Controls
 
 https://github.com/wentallout/cult-hunter/wiki/controls
+
+### Main mechanics
+ 
+`RANGE` matters:
+- Characters do different attacks depend on the range and the angle between them and the enemies.
+- `REACHING`: If your enemies are far away, your characters will automatically do long range attack to try to reach them
+- `AIMING`: you do different attacks based on the body part you aim. If you aim at someone's legs, your characters will try to chop their legs.
+
+`ENVIRONMENT` matters: players can throw bottles into enemies, shoot oil barrels, kick tables, kick enemies down a cliff, etc
+
+`STEALTH` matters:
+- You're always outnumbered by the cult, so try to sneak through, disable alarms, kill long-range enemies early.
+
+`CHARISMA` matters:
+- You can clear certain missions by picking the right dialogue instead of fighting.
+
+`INVESTIGATION` matters: gathering information about cult leaders can help you prepare for them.
+
+### Skill System
+
+- `FORBIDDEN MAGIC` (ACTIVE SKILLS): people with natural magic are already extinct. Most supernatural powers in the game world comes from people making contracts with interdimensional entitie (offering something you have for power).
+  
+- `CURSED TATTOO` (PASSIVE SKILLS): characters have these tattoos that modify their stats (ex: Ava has the `Equalizer` tattoo that matches her stat with the strongest person in her POV)
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/4cd09dd3-6480-4cad-bbe3-01657721afdd)
+
+- `AURA` (RAGE PASSIVE): characters can emit a circular aura around them when they activate `RAGE`. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
+
+![image](https://github.com/wentallout/cult-hunter/assets/76118931/115ccad2-a6ea-4420-b2e6-26dcab14b4ae)
 
 ### Character Status
 
@@ -247,35 +275,3 @@ https://github.com/wentallout/cult-hunter/wiki/controls
 
 - Main quest: related to cults' activities, `INVESTIGATION` and `RAID`
 - Side quest: given by random NPC in the city. EX: find missing people, dating advice, track down perverts, stalkers, ghosts, serial killers.
-
-### Let players use everything they have
- 
-`RANGE` matters:
-- Characters do different attacks depend on the range and the angle between them and the enemies.
-- `REACHING`: If your enemies are far away, your characters will automatically do long range attack to try to reach them
-- `AIMING`: you do different attacks based on the body part you aim. If you aim at someone's legs, your characters will try to chop their legs.
-
-`ENVIRONMENT` matters: players can throw bottles into enemies, shoot oil barrels, kick tables, kick enemies down a cliff, etc
-
-`STEALTH` matters:
-- You're always outnumbered by the cult, so try to sneak through, disable alarms, kill long-range enemies early.
-
-`CHARISMA` matters:
-- You can clear certain missions by picking the right dialogue instead of fighting.
-
-`INVESTIGATION` matters: gathering information about cult leaders can help you prepare for them.
-
-### Skill Tree
-
-- `FORBIDDEN MAGIC` (ACTIVE SKILLS): people with natural magic are already extinct. Most supernatural powers in the game world comes from people making contracts with interdimensional entitie (offering something you have for power).
-  
-- `CURSED TATTOO` (PASSIVE SKILLS): characters have these tattoos that modify their stats (ex: Ava has the `Equalizer` tattoo that matches her stat with the strongest person in her POV)
-
-![image](https://github.com/wentallout/cult-hunter/assets/76118931/4cd09dd3-6480-4cad-bbe3-01657721afdd)
-
-- `AURA` (RAGE PASSIVE): characters can emit a circular aura around them when they activate `RAGE`. If enemies step inside that aura range then they have to obey a certain `RULE`. (ex: Nameless' aura makes people unable to use magic)
-
-![image](https://github.com/wentallout/cult-hunter/assets/76118931/115ccad2-a6ea-4420-b2e6-26dcab14b4ae)
-
-
-
